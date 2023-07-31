@@ -1,0 +1,5308 @@
+minnumerror02(6,7)=6  3  9
+
+numtr0 =
+
+     6     3
+
+
+ans =
+
+     0     6     0     0
+     3     0     0     0
+
+
+ans =
+
+     9
+
+
+t1 =
+
+   15.6520
+
+
+n_tr3 =
+
+     1    12    12     1
+    13    15     3     2
+    16    21     6     3
+    22    72    51     4
+    73    88    16     5
+     0     0     0     6
+     0     0     0     7
+    89   143    55     8
+
+numerror11(1 1)=4 3 1 -1
+numerror11(1 2)=4 3 1 -1
+numerror11(1 4)=5 4 1 -1
+numerror11(1 6)=6 5 1 -1
+numerror11(1 6)=6 5 1 -1
+numerror11(3 1)=6 5 1 -1
+numerror11(3 2)=6 5 1 -1
+numerror11(3 4)=7 6 1 -1
+numerror11(3 6)=8 7 1 -1
+numerror11(3 6)=8 7 1 -1
+(n, minnumerror3)=(12, 4, 3, 1)
+num(6,7,1)=12
+
+numerror11(1 1)=11 1 10 -1
+numerror11(1 2)=11 1 10 -1
+numerror11(1 4)=10 1 9 -1
+numerror11(1 6)=10 1 9 -1
+numerror11(1 8)=15 1 14 -1
+numerror11(1 10)=15 1 14 -1
+numerror11(1 10)=15 1 14 -1
+numerror11(5 1)=15 1 14 -1
+numerror11(5 2)=15 1 14 -1
+numerror11(5 4)=14 1 13 -1
+numerror11(5 6)=14 1 13 -1
+numerror11(5 8)=16 1 15 -1
+numerror11(5 10)=17 1 16 -1
+numerror11(5 10)=17 1 16 -1
+(n, minnumerror3)=(20, 10, 1, 9)
+num(6,7,2)=20
+
+minnumerror3_1(1,2,3,4)=4 10 0 0, sum=14
+minnumerror2(6,7)=minnumerror2(36)=9
+minnumerror4(1, 2, 3, 4)=3 6 0 0, sum=9
+
+numtr0 =
+
+     6     3
+
+
+ans =
+
+     0     6     0     0
+     3     0     0     0
+
+
+ans =
+
+     9
+
+minnumerror2(6,7)=minnumerror2(36)=9
+minnumerror4(1, 2, 3, 4)=3 6 0 0, sum=9
+
+t1 =
+
+   15.8390
+
+
+ w12*w5=-6.93889e-018
+
+n_tr5 =
+
+     1     4     4     1
+     0     0     0     2
+     5     6     2     3
+     7    30    24     4
+    31    38     8     5
+     0     0     0     6
+     0     0     0     7
+    39    65    27     8
+    66    73     8     9
+    74    76     3    10
+    77    80     4    11
+    81   107    27    12
+   108   115     8    13
+     0     0     0    14
+     0     0     0    15
+   116   143    28    16
+
+numerror11(1 1)=3 0 3 -1
+numerror11(1 2)=3 0 3 -1
+numerror11(1 4)=3 0 3 -1
+numerror11(1 6)=3 0 3 -1
+numerror11(1 8)=2 0 2 -1
+numerror11(1 10)=2 0 2 -1
+numerror11(1 11)=2 0 2 -1
+numerror11(4 1)=3 0 3 -1
+numerror11(4 2)=2 0 2 -1
+numerror11(4 4)=3 0 3 -1
+numerror11(4 6)=3 0 3 -1
+numerror11(4 6)=3 0 3 -1
+(n, minnumerror3)=(17, 1, 0, 1)
+num(6,7,2)=17
+
+numerror11(1 1)=3 2 1 -1
+numerror11(1 2)=4 3 1 -1
+numerror11(1 4)=2 2 0 -1
+numerror11(1 6)=3 3 0 -1
+numerror11(1 8)=3 3 0 -1
+numerror11(1 8)=3 3 0 -1
+numerror11(3 1)=3 3 0 -1
+numerror11(3 2)=2 2 0 -1
+numerror11(3 4)=2 2 0 -1
+numerror11(3 6)=2 2 0 -1
+numerror11(3 8)=2 2 0 -1
+numerror11(3 10)=3 3 0 -1
+numerror11(3 12)=3 3 0 -1
+numerror11(3 14)=3 3 0 -1
+numerror11(3 15)=4 4 0 -1
+(n, minnumerror3)=(23, 2, 2, 0)
+num(6,7,5)=23
+
+numerror11(1 1)=6 1 5 -1
+numerror11(1 2)=7 1 6 -1
+numerror11(1 4)=8 1 7 -1
+numerror11(1 5)=8 1 7 -1
+numerror11(4 1)=8 1 7 -1
+numerror11(4 2)=8 1 7 -1
+numerror11(4 4)=8 1 7 -1
+numerror11(4 6)=10 2 8 -1
+numerror11(4 8)=13 2 11 -1
+numerror11(4 8)=13 2 11 -1
+(n, minnumerror3)=(13, 6, 1, 5)
+num(6,7,6)=13
+
+minnumerror5=0  1  0  0  2  6  0  0, sum=9
+minnumerror6=0  1  0  0  2  4  0  0, sum=7
+
+numtr0 =
+
+     6     1
+
+
+ans =
+
+     0     0     0     0     2     4     0     0
+     0     1     0     0     0     0     0     0
+
+
+ans =
+
+     7
+
+minnumerror6=0  1  0  0  2  4  0  0, sum=7
+
+t1 =
+
+   16.0900
+
+
+aver_index =
+
+    0.0629    0.0629    0.0490    0.0490
+
+
+numtr_0 =
+
+     6     6     6     6
+
+
+imin =
+
+     3
+
+
+imin1 =
+
+     3
+
+
+aver_min =
+
+    0.0490
+
+
+imin =
+
+     3
+
+
+numtr0 =
+
+     6     1
+
+
+ans =
+
+     0     0     0     0     2     4     0     0
+     0     1     0     0     0     0     0     0
+
+
+ans =
+
+     7
+
+minnumerror2(6,7)=minnumerror2(36)=7
+
+ans =
+
+  Columns 1 through 22 
+
+     0     0     0     0     0     0     0     0     0     0     0     0     0     0     4     3     2     0     0     1     3     6
+
+  Columns 23 through 36 
+
+     8    12     0     0     0     2     2     3     2     0     2     0     0     7
+
+
+t1 =
+
+   16.1250
+
+numerror(1)=23 6 17 1
+numerror(2)=23 6 17 1
+numerror(3)=23 5 18 1
+numerror(4)=22 5 17 1
+numerror(5)=22 5 17 1
+numerror(6)=24 5 19 1
+numerror(7)=24 5 19 1
+numerror(8)=24 4 20 1
+numerror(9)=24 4 20 1
+(p, q)=34, 75
+numerror(1)=16 7 9 -1
+numerror(2)=16 7 9 -1
+numerror(3)=18 7 11 -1
+numerror(4)=18 7 11 -1
+numerror(5)=19 7 12 -1
+numerror(6)=21 7 14 -1
+(p, q)=34, 31
+numerror(1)=16 8 8 -1
+numerror(2)=19 11 8 -1
+numerror(3)=18 11 7 -1
+numerror(4)=21 11 10 -1
+numerror(5)=22 12 10 -1
+n0=3;k0=37;minnumerror1=160;minnumerror2(k0)=160
+num(6,8)=20
+minnumerror02(6,8)=7  9  16
+
+numtr0 =
+
+     7     9
+
+
+ans =
+
+     0     7     0     0
+     7     0     2     0
+
+
+ans =
+
+    16
+
+
+t1 =
+
+   16.2580
+
+
+n_tr3 =
+
+     1     8     8     1
+     9    15     7     2
+    16    22     7     3
+    23    89    67     4
+    90   108    19     5
+   109   110     2     6
+     0     0     0     7
+   111   197    87     8
+
+numerror11(1 1)=1 1 0 -1
+numerror11(1 2)=1 1 0 -1
+numerror11(1 4)=2 1 1 -1
+numerror11(1 6)=2 1 1 -1
+numerror11(1 7)=2 1 1 -1
+numerror11(3 1)=3 1 2 -1
+numerror11(3 2)=3 1 2 -1
+numerror11(3 4)=3 2 1 -1
+numerror11(3 6)=4 2 2 -1
+numerror11(3 8)=4 2 2 -1
+numerror11(3 8)=4 2 2 -1
+(n, minnumerror3)=(15, 1, 1, 0)
+num(6,8,1)=15
+
+numerror11(1 1)=19 1 18 -1
+numerror11(1 2)=20 1 19 -1
+numerror11(1 4)=23 1 22 -1
+numerror11(1 5)=24 1 23 -1
+(p, q)=7, 20
+numerror11(6 1)=19 3 16 -1
+numerror11(6 2)=17 3 14 -1
+numerror11(6 4)=20 3 17 -1
+numerror11(6 6)=20 3 17 -1
+numerror11(6 6)=20 3 17 -1
+(n, minnumerror3)=(11, 17, 3, 14)
+num(6,8,2)=11
+
+numerror11(1 1)=1 1 0 -1
+numerror11(1 2)=1 1 0 -1
+numerror11(1 4)=1 1 0 -1
+numerror11(1 6)=1 1 0 -1
+numerror11(1 8)=1 1 0 -1
+numerror11(1 10)=1 1 0 -1
+numerror11(1 12)=1 1 0 -1
+numerror11(1 14)=2 2 0 -1
+numerror11(1 16)=2 2 0 -1
+numerror11(1 18)=2 2 0 -1
+numerror11(1 20)=2 2 0 -1
+numerror11(1 22)=1 1 0 -1
+numerror11(1 24)=1 1 0 -1
+numerror11(1 26)=1 1 0 -1
+numerror11(1 28)=1 1 0 -1
+numerror11(1 30)=1 1 0 -1
+numerror11(1 32)=1 1 0 -1
+numerror11(1 34)=1 1 0 -1
+numerror11(1 36)=1 1 0 -1
+numerror11(1 38)=2 2 0 -1
+numerror11(1 40)=1 1 0 -1
+numerror11(1 42)=1 1 0 -1
+numerror11(1 44)=1 1 0 -1
+numerror11(1 46)=1 1 0 -1
+numerror11(1 48)=1 1 0 -1
+numerror11(1 50)=2 2 0 -1
+numerror11(1 52)=2 2 0 -1
+numerror11(1 53)=2 2 0 -1
+numerror11(4 1)=2 2 0 -1
+numerror11(4 2)=2 2 0 -1
+numerror11(4 4)=1 1 0 -1
+numerror11(4 6)=1 1 0 -1
+numerror11(4 8)=2 2 0 -1
+numerror11(4 10)=1 1 0 -1
+numerror11(4 12)=2 2 0 -1
+numerror11(4 14)=1 1 0 -1
+numerror11(4 16)=2 2 0 -1
+numerror11(4 17)=0 0 0 -1
+(n, minnumerror3)=(70, 0, 0, 0)
+num(6,8,3)=70
+
+minnumerror3_1(1,2,3,4)=1 17 0 0, sum=18
+minnumerror2(6,8)=minnumerror2(37)=8
+minnumerror4(1, 2, 3, 4)=1 7 0 0, sum=8
+
+numtr0 =
+
+     8     0
+
+
+ans =
+
+     1     7     0     0
+     0     0     0     0
+
+
+ans =
+
+     8
+
+minnumerror2(6,8)=minnumerror2(37)=8
+minnumerror4(1, 2, 3, 4)=1 7 0 0, sum=8
+
+t1 =
+
+   16.6360
+
+
+ w12*w5=-2.77556e-017
+
+n_tr5 =
+
+     1     5     5     1
+     6    11     6     2
+    12    15     4     3
+    16    35    20     4
+    36    44     9     5
+    45    45     1     6
+     0     0     0     7
+    46    88    43     8
+    89    91     3     9
+    92    92     1    10
+    93    95     3    11
+    96   142    47    12
+   143   152    10    13
+   153   153     1    14
+     0     0     0    15
+   154   197    44    16
+
+numerror11(1 1)=1 1 0 -1
+numerror11(1 2)=1 1 0 -1
+numerror11(1 4)=1 1 0 -1
+numerror11(1 6)=1 1 0 -1
+numerror11(1 8)=4 1 3 -1
+numerror11(1 10)=3 1 2 -1
+numerror11(1 10)=3 1 2 -1
+numerror11(3 1)=3 1 2 -1
+numerror11(3 2)=3 1 2 -1
+numerror11(3 4)=3 1 2 -1
+numerror11(3 6)=2 1 1 -1
+numerror11(3 8)=3 1 2 -1
+numerror11(3 10)=3 1 2 -1
+numerror11(3 10)=3 1 2 -1
+(n, minnumerror3)=(20, 1, 1, 0)
+num(6,8,1)=20
+
+numerror11(1 1)=5 1 4 -1
+numerror11(1 2)=5 1 4 -1
+numerror11(1 4)=5 1 4 -1
+numerror11(1 6)=5 1 4 -1
+numerror11(1 8)=5 1 4 -1
+numerror11(1 10)=5 1 4 -1
+numerror11(1 12)=4 1 3 -1
+numerror11(1 14)=4 1 3 -1
+numerror11(1 16)=5 1 4 -1
+numerror11(1 18)=5 1 4 -1
+numerror11(1 18)=5 1 4 -1
+numerror11(4 1)=5 1 4 -1
+numerror11(4 2)=4 0 4 -1
+numerror11(4 4)=4 0 4 -1
+numerror11(4 6)=4 0 4 -1
+numerror11(4 8)=4 0 4 -1
+numerror11(4 10)=5 1 4 -1
+numerror11(4 12)=5 1 4 -1
+numerror11(4 14)=5 1 4 -1
+numerror11(4 16)=4 0 4 -1
+numerror11(4 18)=4 0 4 -1
+numerror11(4 20)=4 0 4 -1
+numerror11(4 22)=5 1 4 -1
+numerror11(4 24)=5 1 4 -1
+numerror11(4 26)=4 0 4 -1
+numerror11(4 28)=4 0 4 -1
+numerror11(4 30)=4 1 3 -1
+numerror11(4 32)=4 0 4 -1
+numerror11(4 34)=4 0 4 -1
+numerror11(4 36)=3 0 3 -1
+numerror11(4 38)=4 1 3 -1
+numerror11(4 40)=3 0 3 -1
+numerror11(4 42)=3 0 3 -1
+numerror11(4 44)=3 0 3 -1
+numerror11(4 46)=3 0 3 -1
+numerror11(4 48)=4 1 3 -1
+numerror11(4 50)=3 0 3 -1
+numerror11(4 52)=4 1 3 -1
+numerror11(4 54)=3 0 3 -1
+numerror11(4 56)=3 0 3 -1
+numerror11(4 58)=3 0 3 -1
+numerror11(4 60)=3 0 3 -1
+numerror11(4 62)=4 1 3 -1
+numerror11(4 64)=3 0 3 -1
+numerror11(4 66)=4 1 3 -1
+numerror11(4 68)=3 0 3 -1
+numerror11(4 70)=3 0 3 -1
+numerror11(4 72)=3 0 3 -1
+numerror11(4 74)=3 0 3 -1
+numerror11(4 76)=3 0 3 -1
+numerror11(4 78)=3 0 3 -1
+numerror11(4 80)=4 1 3 -1
+numerror11(4 82)=3 0 3 -1
+numerror11(4 84)=4 1 3 -1
+numerror11(4 86)=3 0 3 -1
+numerror11(4 88)=4 1 3 -1
+numerror11(4 90)=3 0 3 -1
+numerror11(4 92)=4 1 3 -1
+numerror11(4 94)=3 0 3 -1
+numerror11(4 96)=4 1 3 -1
+numerror11(4 98)=3 0 3 -1
+numerror11(4 100)=4 1 3 -1
+numerror11(4 102)=3 0 3 -1
+numerror11(4 104)=4 1 3 -1
+numerror11(4 106)=3 0 3 -1
+numerror11(4 108)=4 1 3 -1
+numerror11(4 110)=3 0 3 -1
+numerror11(4 112)=4 1 3 -1
+numerror11(4 114)=3 0 3 -1
+numerror11(4 116)=4 1 3 -1
+numerror11(4 118)=3 0 3 -1
+numerror11(4 120)=4 1 3 -1
+numerror11(4 122)=3 0 3 -1
+numerror11(4 124)=4 1 3 -1
+numerror11(4 126)=3 0 3 -1
+numerror11(4 128)=4 1 3 -1
+numerror11(4 130)=3 0 3 -1
+numerror11(4 132)=4 1 3 -1
+numerror11(4 134)=3 0 3 -1
+numerror11(4 136)=3 0 3 -1
+numerror11(4 138)=3 0 3 -1
+numerror11(4 140)=4 0 4 -1
+numerror11(4 142)=4 0 4 -1
+numerror11(4 142)=4 0 4 -1
+(n, minnumerror3)=(160, 3, 0, 3)
+num(6,8,2)=160
+
+numerror11(1 1)=0 0 0 -1
+numerror11(1 1)=0 0 0 -1
+(n, minnumerror3)=(1, 0, 0, 0)
+num(6,8,5)=1
+
+numerror11(1 1)=9 0 9 -1
+numerror11(1 2)=8 0 8 -1
+numerror11(1 4)=9 0 9 -1
+numerror11(1 6)=8 0 8 -1
+numerror11(1 8)=8 0 8 -1
+numerror11(1 10)=8 0 8 -1
+numerror11(1 12)=8 0 8 -1
+numerror11(1 14)=8 0 8 -1
+numerror11(1 16)=8 0 8 -1
+numerror11(1 18)=8 0 8 -1
+numerror11(1 20)=7 0 7 -1
+numerror11(1 22)=7 0 7 -1
+numerror11(1 24)=7 0 7 -1
+numerror11(1 26)=7 0 7 -1
+numerror11(1 28)=7 0 7 -1
+numerror11(1 30)=7 0 7 -1
+numerror11(1 32)=7 0 7 -1
+numerror11(1 34)=7 0 7 -1
+numerror11(1 36)=7 0 7 -1
+numerror11(1 38)=8 0 8 -1
+numerror11(1 40)=8 0 8 -1
+numerror11(1 40)=8 0 8 -1
+numerror11(5 1)=8 0 8 -1
+numerror11(5 2)=8 0 8 -1
+numerror11(5 4)=9 0 9 -1
+numerror11(5 6)=9 0 9 -1
+numerror11(5 6)=9 0 9 -1
+(n, minnumerror3)=(46, 7, 0, 7)
+num(6,8,6)=46
+
+minnumerror5=1  3  0  0  0  7  0  0, sum=11
+minnumerror6=1  3  0  0  0  3  0  0, sum=7
+
+numtr0 =
+
+     4     3
+
+
+ans =
+
+     1     0     0     0     0     3     0     0
+     0     3     0     0     0     0     0     0
+
+
+ans =
+
+     7
+
+minnumerror6=1  3  0  0  0  3  0  0, sum=7
+
+t1 =
+
+   17.3720
+
+
+aver_index =
+
+    0.0812    0.0406    0.0355    0.0355
+
+
+numtr_0 =
+
+     7     8     4     4
+
+
+imin =
+
+     3
+
+
+imin1 =
+
+     3
+
+
+aver_min =
+
+    0.0355
+
+
+imin =
+
+     3
+
+
+numtr0 =
+
+     4     3
+
+
+ans =
+
+     1     0     0     0     0     3     0     0
+     0     3     0     0     0     0     0     0
+
+
+ans =
+
+     7
+
+minnumerror2(6,8)=minnumerror2(37)=7
+
+ans =
+
+  Columns 1 through 22 
+
+     0     0     0     0     0     0     0     0     0     0     0     0     0     0     4     3     2     0     0     1     3     6
+
+  Columns 23 through 37 
+
+     8    12     0     0     0     2     2     3     2     0     2     0     0     7     7
+
+
+t1 =
+
+   17.4020
+
+numerror(1)=35 3 32 -1
+numerror(2)=37 4 33 -1
+numerror(3)=38 4 34 -1
+numerror(4)=39 4 35 -1
+numerror(5)=41 5 36 -1
+(p, q)=34, 137
+numerror(1)=13 5 8 -1
+numerror(2)=15 5 10 -1
+numerror(3)=15 5 10 -1
+numerror(4)=14 5 9 -1
+numerror(5)=15 5 10 -1
+(p, q)=34, 56
+numerror(1)=12 7 5 -1
+numerror(2)=13 7 6 -1
+numerror(3)=13 8 5 -1
+numerror(4)=13 8 5 -1
+numerror(5)=14 8 6 -1
+n0=3;k0=38;minnumerror1=120;minnumerror2(k0)=350
+num(6,9)=15
+minnumerror02(6,9)=3  32  35
+
+numtr0 =
+
+     3    32
+
+
+ans =
+
+     0     3     0     0
+    32     0     0     0
+
+
+ans =
+
+    35
+
+
+t1 =
+
+   17.5080
+
+
+n_tr3 =
+
+     1    11    11     1
+    12    43    32     2
+    44    46     3     3
+    47   151   105     4
+   152   171    20     5
+     0     0     0     6
+     0     0     0     7
+   172   320   149     8
+
+numerror11(1 1)=11 2 9 -1
+numerror11(1 2)=13 3 10 -1
+numerror11(1 4)=14 3 11 -1
+numerror11(1 6)=15 3 12 -1
+numerror11(1 7)=15 3 12 -1
+numerror11(5 1)=16 3 13 -1
+numerror11(5 2)=17 3 14 -1
+numerror11(5 4)=17 3 14 -1
+numerror11(5 6)=17 3 14 -1
+numerror11(5 8)=16 3 13 -1
+numerror11(5 10)=16 3 13 -1
+numerror11(5 12)=16 3 13 -1
+numerror11(5 14)=16 3 13 -1
+numerror11(5 16)=16 3 13 -1
+numerror11(5 18)=16 3 13 -1
+numerror11(5 20)=16 3 13 -1
+numerror11(5 22)=16 3 13 -1
+numerror11(5 24)=16 3 13 -1
+numerror11(5 26)=16 3 13 -1
+numerror11(5 28)=16 3 13 -1
+numerror11(5 30)=16 3 13 -1
+numerror11(5 32)=16 3 13 -1
+numerror11(5 34)=16 3 13 -1
+numerror11(5 36)=16 3 13 -1
+numerror11(5 38)=16 3 13 -1
+numerror11(5 40)=16 3 13 -1
+numerror11(5 42)=16 3 13 -1
+numerror11(5 44)=16 3 13 -1
+numerror11(5 46)=16 3 13 -1
+numerror11(5 48)=16 3 13 -1
+numerror11(5 50)=16 3 13 -1
+numerror11(5 52)=16 3 13 -1
+numerror11(5 54)=16 3 13 -1
+numerror11(5 56)=16 3 13 -1
+numerror11(5 58)=16 3 13 -1
+numerror11(5 60)=16 3 13 -1
+numerror11(5 62)=16 3 13 -1
+numerror11(5 64)=16 3 13 -1
+numerror11(5 66)=16 3 13 -1
+numerror11(5 68)=16 3 13 -1
+numerror11(5 70)=16 3 13 -1
+numerror11(5 72)=16 3 13 -1
+numerror11(5 74)=16 3 13 -1
+numerror11(5 76)=16 3 13 -1
+numerror11(5 78)=16 3 13 -1
+numerror11(5 80)=16 3 13 -1
+numerror11(5 82)=16 3 13 -1
+numerror11(5 84)=16 3 13 -1
+numerror11(5 86)=16 3 13 -1
+numerror11(5 88)=16 3 13 -1
+numerror11(5 90)=16 3 13 -1
+numerror11(5 92)=16 3 13 -1
+numerror11(5 94)=16 3 13 -1
+numerror11(5 96)=16 3 13 -1
+numerror11(5 98)=16 3 13 -1
+numerror11(5 100)=16 3 13 -1
+numerror11(5 102)=16 3 13 -1
+numerror11(5 104)=16 3 13 -1
+numerror11(5 106)=16 3 13 -1
+numerror11(5 108)=16 3 13 -1
+numerror11(5 110)=16 3 13 -1
+numerror11(5 112)=16 3 13 -1
+numerror11(5 114)=16 3 13 -1
+numerror11(5 116)=16 3 13 -1
+numerror11(5 118)=16 3 13 -1
+numerror11(5 120)=16 3 13 -1
+numerror11(5 122)=16 3 13 -1
+numerror11(5 124)=16 3 13 -1
+numerror11(5 126)=16 3 13 -1
+numerror11(5 128)=16 3 13 -1
+numerror11(5 130)=16 3 13 -1
+numerror11(5 132)=16 3 13 -1
+numerror11(5 134)=16 3 13 -1
+numerror11(5 136)=16 3 13 -1
+numerror11(5 138)=16 3 13 -1
+numerror11(5 140)=16 3 13 -1
+numerror11(5 142)=16 3 13 -1
+numerror11(5 144)=16 3 13 -1
+numerror11(5 146)=16 3 13 -1
+numerror11(5 148)=16 3 13 -1
+numerror11(5 150)=16 3 13 -1
+numerror11(5 150)=16 3 13 -1
+(n, minnumerror3)=(157, 11, 3, 8)
+num(6,9,1)=157
+
+numerror11(1 1)=6 0 6 -1
+numerror11(1 2)=5 0 5 -1
+numerror11(1 4)=5 0 5 -1
+numerror11(1 6)=5 0 5 -1
+numerror11(1 8)=5 0 5 -1
+numerror11(1 10)=6 0 6 -1
+numerror11(1 12)=7 0 7 -1
+numerror11(1 12)=7 0 7 -1
+(p, q)=3, 56
+numerror11(6 1)=3 0 3 -1
+numerror11(6 2)=3 0 3 -1
+numerror11(6 4)=3 0 3 -1
+numerror11(6 6)=3 0 3 -1
+numerror11(6 8)=4 0 4 -1
+numerror11(6 10)=4 0 4 -1
+numerror11(6 10)=4 0 4 -1
+(n, minnumerror3)=(22, 3, 0, 3)
+num(6,9,2)=22
+
+minnumerror3_1(1,2,3,4)=11 3 0 0, sum=14
+minnumerror2(6,9)=minnumerror2(38)=14
+minnumerror4(1, 2, 3, 4)=11 3 0 0, sum=14
+
+numtr0 =
+
+     6     8
+
+
+ans =
+
+     3     3     0     0
+     8     0     0     0
+
+
+ans =
+
+    14
+
+minnumerror2(6,9)=minnumerror2(38)=14
+minnumerror4(1, 2, 3, 4)=11 3 0 0, sum=14
+
+t1 =
+
+   18.0740
+
+
+ w12*w5=6.93889e-018
+
+n_tr5 =
+
+     1     7     7     1
+     8    23    16     2
+     0     0     0     3
+    24    66    43     4
+    67    76    10     5
+     0     0     0     6
+     0     0     0     7
+    77   150    74     8
+   151   154     4     9
+   155   170    16    10
+   171   173     3    11
+   174   235    62    12
+   236   245    10    13
+     0     0     0    14
+     0     0     0    15
+   246   320    75    16
+
+numerror11(1 1)=6 2 4 -1
+numerror11(1 2)=7 2 5 -1
+numerror11(1 4)=8 2 6 -1
+numerror11(1 5)=9 3 6 -1
+numerror11(4 1)=10 3 7 -1
+numerror11(4 2)=10 3 7 -1
+numerror11(4 4)=9 2 7 -1
+numerror11(4 6)=10 2 8 -1
+numerror11(4 8)=10 3 7 -1
+numerror11(4 9)=11 3 8 -1
+(n, minnumerror3)=(14, 6, 2, 4)
+num(6,9,1)=14
+
+numerror11(1 1)=4 1 3 -1
+numerror11(1 2)=4 0 4 -1
+numerror11(1 4)=5 1 4 -1
+numerror11(1 6)=6 1 5 -1
+numerror11(1 7)=6 1 5 -1
+numerror11(4 1)=6 1 5 -1
+numerror11(4 2)=6 1 5 -1
+numerror11(4 4)=6 1 5 -1
+numerror11(4 6)=6 1 5 -1
+numerror11(4 8)=6 1 5 -1
+numerror11(4 10)=6 1 5 -1
+numerror11(4 12)=6 1 5 -1
+numerror11(4 14)=6 1 5 -1
+numerror11(4 16)=6 1 5 -1
+numerror11(4 18)=6 1 5 -1
+numerror11(4 20)=6 1 5 -1
+numerror11(4 22)=5 0 5 -1
+numerror11(4 24)=6 1 5 -1
+numerror11(4 26)=6 1 5 -1
+numerror11(4 28)=5 0 5 -1
+numerror11(4 30)=6 1 5 -1
+numerror11(4 32)=6 1 5 -1
+numerror11(4 34)=5 0 5 -1
+numerror11(4 36)=6 1 5 -1
+numerror11(4 38)=5 0 5 -1
+numerror11(4 40)=6 1 5 -1
+numerror11(4 42)=7 1 6 -1
+numerror11(4 44)=4 1 3 -1
+numerror11(4 46)=4 0 4 -1
+numerror11(4 48)=5 0 5 -1
+numerror11(4 50)=5 0 5 -1
+numerror11(4 50)=5 0 5 -1
+(n, minnumerror3)=(57, 4, 0, 4)
+num(6,9,5)=57
+
+numerror11(1 1)=4 0 4 -1
+numerror11(1 2)=5 0 5 -1
+numerror11(1 4)=7 0 7 -1
+numerror11(1 5)=7 0 7 -1
+numerror11(6 1)=7 0 7 -1
+numerror11(6 2)=7 0 7 -1
+numerror11(6 4)=7 0 7 -1
+numerror11(6 6)=7 0 7 -1
+numerror11(6 8)=6 0 6 -1
+numerror11(6 10)=6 0 6 -1
+numerror11(6 12)=7 0 7 -1
+numerror11(6 14)=8 0 8 -1
+numerror11(6 14)=8 0 8 -1
+(n, minnumerror3)=(19, 4, 0, 4)
+num(6,9,6)=19
+
+minnumerror5=6  0  0  0  4  4  0  0, sum=14
+minnumerror6=6  0  0  0  4  3  0  0, sum=13
+
+numtr0 =
+
+     5     8
+
+
+ans =
+
+     2     0     0     0     0     3     0     0
+     4     0     0     0     4     0     0     0
+
+
+ans =
+
+    13
+
+minnumerror6=6  0  0  0  4  3  0  0, sum=13
+
+t1 =
+
+   18.4210
+
+
+aver_index =
+
+    0.1094    0.0437    0.0406    0.0406
+
+
+numtr_0 =
+
+     3     6     5     5
+
+
+imin =
+
+     3
+
+
+imin1 =
+
+     3
+
+
+aver_min =
+
+    0.0406
+
+
+imin =
+
+     3
+
+
+numtr0 =
+
+     5     8
+
+
+ans =
+
+     2     0     0     0     0     3     0     0
+     4     0     0     0     4     0     0     0
+
+
+ans =
+
+    13
+
+minnumerror2(6,9)=minnumerror2(38)=13
+
+ans =
+
+  Columns 1 through 22 
+
+     0     0     0     0     0     0     0     0     0     0     0     0     0     0     4     3     2     0     0     1     3     6
+
+  Columns 23 through 38 
+
+     8    12     0     0     0     2     2     3     2     0     2     0     0     7     7    13
+
+
+t1 =
+
+   18.4560
+
+numerror(1)=26 3 23 1
+numerror(2)=28 3 25 1
+numerror(3)=28 3 25 1
+numerror(4)=30 3 27 1
+numerror(5)=30 3 27 1
+(p, q)=34, 164
+numerror(1)=16 7 9 -1
+numerror(2)=16 7 9 -1
+numerror(3)=16 7 9 -1
+numerror(4)=17 7 10 -1
+numerror(5)=17 6 11 -1
+numerror(6)=17 6 11 -1
+numerror(7)=18 7 11 -1
+(p, q)=34, 64
+numerror(1)=14 9 5 -1
+numerror(2)=13 8 5 -1
+numerror(3)=13 8 5 -1
+numerror(4)=15 8 7 -1
+numerror(5)=16 9 7 -1
+numerror(6)=16 9 7 -1
+numerror(7)=17 9 8 -1
+(p, q)=34, 64
+num(6,10)=19
+minnumerror02(6,10)=3  23  26
+
+numtr0 =
+
+     3    23
+
+
+ans =
+
+     0     2     0     1
+    23     0     0     0
+
+
+ans =
+
+    26
+
+
+t1 =
+
+   18.5890
+
+
+n_tr3 =
+
+     1    13    13     1
+    14    36    23     2
+    37    38     2     3
+    39   179   141     4
+   180   197    18     5
+     0     0     0     6
+   198   198     1     7
+   199   343   145     8
+
+numerror11(1 1)=6 2 4 -1
+numerror11(1 2)=7 3 4 -1
+numerror11(1 4)=9 3 6 -1
+numerror11(1 5)=9 3 6 -1
+numerror11(5 1)=10 3 7 -1
+numerror11(5 2)=12 4 8 -1
+numerror11(5 4)=12 3 9 -1
+numerror11(5 5)=13 4 9 -1
+(n, minnumerror3)=(10, 6, 2, 4)
+num(6,10,1)=10
+
+numerror11(1 1)=3 0 3 -1
+numerror11(1 2)=3 0 3 -1
+numerror11(1 4)=3 0 3 -1
+numerror11(1 6)=3 0 3 -1
+numerror11(1 8)=3 0 3 -1
+numerror11(1 10)=3 0 3 -1
+numerror11(1 12)=3 0 3 -1
+numerror11(1 14)=3 0 3 -1
+numerror11(1 16)=3 0 3 -1
+numerror11(1 18)=3 0 3 -1
+numerror11(1 20)=3 0 3 -1
+numerror11(1 22)=3 0 3 -1
+numerror11(1 24)=3 0 3 -1
+numerror11(1 26)=3 0 3 -1
+numerror11(1 28)=3 0 3 -1
+numerror11(1 30)=3 0 3 -1
+numerror11(1 32)=3 0 3 -1
+numerror11(1 34)=3 0 3 -1
+numerror11(1 36)=3 0 3 -1
+numerror11(1 38)=3 0 3 -1
+numerror11(1 40)=3 0 3 -1
+numerror11(1 42)=3 0 3 -1
+numerror11(1 44)=3 0 3 -1
+numerror11(1 46)=3 0 3 -1
+numerror11(1 48)=2 0 2 -1
+numerror11(1 50)=2 0 2 -1
+numerror11(1 52)=2 0 2 -1
+numerror11(1 54)=3 0 3 -1
+numerror11(1 56)=2 0 2 -1
+numerror11(1 58)=3 0 3 -1
+numerror11(1 60)=2 0 2 -1
+numerror11(1 62)=3 0 3 -1
+numerror11(1 64)=2 0 2 -1
+numerror11(1 66)=3 0 3 -1
+numerror11(1 68)=2 0 2 -1
+numerror11(1 70)=2 0 2 -1
+numerror11(1 72)=3 0 3 -1
+numerror11(1 74)=3 0 3 -1
+numerror11(1 75)=3 0 3 -1
+(p, q)=2, 69
+numerror11(2 1)=0 0 0 -1
+numerror11(2 1)=0 0 0 -1
+(n, minnumerror3)=(76, 0, 0, 0)
+num(6,10,2)=76
+
+numerror11(1 1)=12 0 12 -1
+numerror11(1 2)=11 0 11 -1
+numerror11(1 4)=10 0 10 -1
+numerror11(1 6)=10 0 10 -1
+numerror11(1 8)=9 0 9 -1
+numerror11(1 10)=9 0 9 -1
+numerror11(1 12)=10 0 10 -1
+numerror11(1 14)=10 0 10 -1
+numerror11(1 14)=10 0 10 -1
+(p, q)=1, 76
+(n, minnumerror3)=(14, 9, 0, 9)
+num(6,10,4)=14
+
+minnumerror3_1(1,2,3,4)=6 0 0 9, sum=15
+minnumerror2(6,10)=minnumerror2(39)=7
+minnumerror4(1, 2, 3, 4)=6 0 0 1, sum=7
+
+numtr0 =
+
+     3     4
+
+
+ans =
+
+     2     0     0     1
+     4     0     0     0
+
+
+ans =
+
+     7
+
+minnumerror2(6,10)=minnumerror2(39)=7
+minnumerror4(1, 2, 3, 4)=6 0 0 1, sum=7
+
+t1 =
+
+   18.9670
+
+
+t1 =
+
+   18.9770
+
+
+aver_index =
+
+    0.0758    0.0204    0.0204    0.0204
+
+
+numtr_0 =
+
+     3     3     3     3
+
+
+imin =
+
+     2
+
+
+imin1 =
+
+     2
+
+
+aver_min =
+
+    0.0204
+
+
+imin =
+
+     2
+
+
+numtr0 =
+
+     3     4
+
+
+ans =
+
+     2     0     0     1
+     4     0     0     0
+
+
+ans =
+
+     7
+
+minnumerror2(6,10)=minnumerror2(39)=7
+
+ans =
+
+  Columns 1 through 22 
+
+     0     0     0     0     0     0     0     0     0     0     0     0     0     0     4     3     2     0     0     1     3     6
+
+  Columns 23 through 39 
+
+     8    12     0     0     0     2     2     3     2     0     2     0     0     7     7    13     7
+
+
+t1 =
+
+   19.0070
+
+numerror(1)=16 6 10 1
+numerror(2)=16 6 10 1
+numerror(3)=17 6 11 1
+numerror(4)=18 7 11 1
+numerror(5)=18 7 11 1
+numerror(6)=18 7 11 1
+(p, q)=57, 73
+numerror(1)=16 6 10 -1
+numerror(2)=17 6 11 -1
+numerror(3)=17 6 11 -1
+numerror(4)=17 6 11 -1
+numerror(5)=17 6 11 -1
+(p, q)=57, 32
+numerror(1)=15 8 7 -1
+numerror(2)=15 8 7 -1
+numerror(3)=15 8 7 -1
+numerror(4)=15 8 7 -1
+numerror(5)=15 8 7 -1
+numerror(6)=15 9 6 -1
+numerror(7)=16 9 7 -1
+numerror(8)=16 9 7 -1
+numerror(9)=16 9 7 -1
+numerror(10)=17 9 8 -1
+n0=3;k0=40;minnumerror1=150;minnumerror2(k0)=150
+num(7,8)=21
+minnumerror02(7,8)=9  6  15
+
+numtr0 =
+
+     9     6
+
+
+ans =
+
+     0     9     0     0
+     5     0     1     0
+
+
+ans =
+
+    15
+
+
+t1 =
+
+   19.1490
+
+
+n_tr3 =
+
+     1    48    48     1
+    49    53     5     2
+    54    62     9     3
+    63   134    72     4
+   135   186    52     5
+   187   187     1     6
+     0     0     0     7
+   188   272    85     8
+
+numerror11(1 1)=19 16 3 -1
+numerror11(1 2)=19 16 3 -1
+numerror11(1 4)=20 17 3 -1
+numerror11(1 6)=24 21 3 -1
+numerror11(1 7)=24 21 3 -1
+numerror11(5 1)=26 23 3 -1
+numerror11(5 2)=27 24 3 -1
+numerror11(5 4)=26 23 3 -1
+numerror11(5 6)=31 28 3 -1
+numerror11(5 8)=33 30 3 -1
+numerror11(5 8)=33 30 3 -1
+(n, minnumerror3)=(15, 19, 16, 3)
+num(7,8,1)=15
+
+numerror11(1 1)=15 1 14 -1
+numerror11(1 2)=14 1 13 -1
+numerror11(1 4)=16 1 15 -1
+numerror11(1 6)=16 1 15 -1
+numerror11(1 6)=16 1 15 -1
+(p, q)=9, 30
+numerror11(6 1)=10 1 9 -1
+numerror11(6 2)=12 2 10 -1
+numerror11(6 4)=12 2 10 -1
+numerror11(6 5)=12 2 10 -1
+(n, minnumerror3)=(11, 10, 1, 9)
+num(7,8,2)=11
+
+numerror11(1 1)=6 6 0 -1
+numerror11(1 2)=5 5 0 -1
+numerror11(1 4)=4 4 0 -1
+numerror11(1 6)=3 3 0 -1
+numerror11(1 8)=3 3 0 -1
+numerror11(1 10)=3 3 0 -1
+numerror11(1 12)=3 3 0 -1
+numerror11(1 14)=3 3 0 -1
+numerror11(1 16)=3 3 0 -1
+numerror11(1 18)=3 3 0 -1
+numerror11(1 20)=4 4 0 -1
+numerror11(1 22)=3 3 0 -1
+numerror11(1 24)=4 4 0 -1
+numerror11(1 26)=3 3 0 -1
+numerror11(1 28)=3 3 0 -1
+numerror11(1 30)=3 3 0 -1
+numerror11(1 32)=3 3 0 -1
+numerror11(1 34)=3 3 0 -1
+numerror11(1 36)=3 3 0 -1
+numerror11(1 38)=3 3 0 -1
+numerror11(1 40)=4 4 0 -1
+numerror11(1 42)=4 4 0 -1
+numerror11(1 42)=4 4 0 -1
+numerror11(5 1)=4 4 0 -1
+numerror11(5 2)=4 4 0 -1
+numerror11(5 4)=4 4 0 -1
+numerror11(5 6)=4 4 0 -1
+numerror11(5 8)=4 4 0 -1
+numerror11(5 10)=4 4 0 -1
+numerror11(5 12)=3 3 0 -1
+numerror11(5 14)=3 3 0 -1
+numerror11(5 16)=3 3 0 -1
+numerror11(5 18)=3 3 0 -1
+numerror11(5 20)=3 3 0 -1
+numerror11(5 22)=3 3 0 -1
+numerror11(5 24)=3 3 0 -1
+numerror11(5 26)=3 3 0 -1
+numerror11(5 28)=3 3 0 -1
+numerror11(5 30)=3 3 0 -1
+numerror11(5 32)=2 2 0 -1
+numerror11(5 34)=2 2 0 -1
+numerror11(5 36)=2 2 0 -1
+numerror11(5 38)=2 2 0 -1
+numerror11(5 40)=3 3 0 -1
+numerror11(5 42)=3 3 0 -1
+numerror11(5 42)=3 3 0 -1
+(n, minnumerror3)=(84, 2, 2, 0)
+num(7,8,3)=84
+
+minnumerror3_1(1,2,3,4)=19 10 2 0, sum=31
+minnumerror2(7,8)=minnumerror2(40)=15
+minnumerror4(1, 2, 3, 4)=5 9 1 0, sum=15
+
+numtr0 =
+
+     9     6
+
+
+ans =
+
+     0     9     0     0
+     5     0     1     0
+
+
+ans =
+
+    15
+
+minnumerror2(7,8)=minnumerror2(40)=15
+minnumerror4(1, 2, 3, 4)=5 9 1 0, sum=15
+
+t1 =
+
+   19.5620
+
+
+ w12*w5=0
+
+n_tr5 =
+
+     1    27    27     1
+    28    30     3     2
+    31    32     2     3
+    33    55    23     4
+    56    97    42     5
+    98    98     1     6
+     0     0     0     7
+    99   140    42     8
+   141   161    21     9
+   162   163     2    10
+   164   170     7    11
+   171   219    49    12
+   220   229    10    13
+     0     0     0    14
+     0     0     0    15
+   230   272    43    16
+
+numerror11(1 1)=10 9 1 -1
+numerror11(1 2)=11 10 1 -1
+numerror11(1 4)=10 10 0 -1
+numerror11(1 6)=10 10 0 -1
+numerror11(1 8)=9 8 1 -1
+numerror11(1 10)=8 8 0 -1
+numerror11(1 12)=9 9 0 -1
+numerror11(1 14)=8 8 0 -1
+numerror11(1 16)=8 8 0 -1
+numerror11(1 18)=9 9 0 -1
+numerror11(1 20)=11 11 0 -1
+numerror11(1 20)=11 11 0 -1
+numerror11(4 1)=12 11 1 -1
+numerror11(4 2)=12 11 1 -1
+numerror11(4 4)=12 11 1 -1
+numerror11(4 6)=12 11 1 -1
+numerror11(4 8)=12 11 1 -1
+numerror11(4 10)=12 11 1 -1
+numerror11(4 12)=12 11 1 -1
+numerror11(4 14)=12 11 1 -1
+numerror11(4 16)=12 11 1 -1
+numerror11(4 18)=12 11 1 -1
+numerror11(4 20)=12 11 1 -1
+numerror11(4 22)=12 11 1 -1
+numerror11(4 24)=12 11 1 -1
+numerror11(4 26)=12 11 1 -1
+numerror11(4 28)=12 11 1 -1
+numerror11(4 30)=12 11 1 -1
+numerror11(4 32)=12 11 1 -1
+numerror11(4 34)=12 11 1 -1
+numerror11(4 36)=12 11 1 -1
+numerror11(4 38)=12 11 1 -1
+numerror11(4 40)=12 11 1 -1
+numerror11(4 42)=12 11 1 -1
+numerror11(4 44)=12 11 1 -1
+numerror11(4 46)=12 11 1 -1
+numerror11(4 48)=12 11 1 -1
+numerror11(4 50)=12 11 1 -1
+numerror11(4 52)=12 11 1 -1
+numerror11(4 54)=12 11 1 -1
+numerror11(4 56)=12 11 1 -1
+numerror11(4 58)=12 11 1 -1
+numerror11(4 60)=12 11 1 -1
+numerror11(4 62)=12 11 1 -1
+numerror11(4 64)=12 11 1 -1
+numerror11(4 66)=12 11 1 -1
+numerror11(4 68)=12 11 1 -1
+numerror11(4 70)=12 11 1 -1
+numerror11(4 72)=12 11 1 -1
+numerror11(4 74)=12 11 1 -1
+numerror11(4 76)=12 11 1 -1
+numerror11(4 78)=12 11 1 -1
+numerror11(4 80)=12 11 1 -1
+numerror11(4 82)=12 11 1 -1
+numerror11(4 84)=12 11 1 -1
+numerror11(4 86)=12 11 1 -1
+numerror11(4 88)=12 11 1 -1
+numerror11(4 90)=12 11 1 -1
+numerror11(4 92)=12 11 1 -1
+numerror11(4 94)=12 11 1 -1
+numerror11(4 96)=12 11 1 -1
+numerror11(4 98)=12 11 1 -1
+numerror11(4 100)=12 11 1 -1
+numerror11(4 102)=12 11 1 -1
+numerror11(4 104)=12 11 1 -1
+numerror11(4 106)=12 11 1 -1
+numerror11(4 108)=12 11 1 -1
+numerror11(4 110)=12 11 1 -1
+numerror11(4 112)=12 11 1 -1
+numerror11(4 114)=12 11 1 -1
+numerror11(4 116)=12 11 1 -1
+numerror11(4 118)=12 11 1 -1
+numerror11(4 120)=12 11 1 -1
+numerror11(4 122)=12 11 1 -1
+numerror11(4 124)=12 11 1 -1
+numerror11(4 126)=12 11 1 -1
+numerror11(4 128)=12 11 1 -1
+numerror11(4 130)=12 11 1 -1
+numerror11(4 132)=12 11 1 -1
+numerror11(4 134)=12 11 1 -1
+numerror11(4 136)=12 11 1 -1
+numerror11(4 138)=12 11 1 -1
+numerror11(4 140)=12 11 1 -1
+numerror11(4 142)=12 11 1 -1
+numerror11(4 144)=12 11 1 -1
+numerror11(4 146)=12 11 1 -1
+numerror11(4 148)=12 11 1 -1
+numerror11(4 150)=12 11 1 -1
+numerror11(4 150)=12 11 1 -1
+(n, minnumerror3)=(170, 8, 8, 0)
+num(7,8,1)=170
+
+numerror11(1 1)=3 0 3 -1
+numerror11(1 2)=3 0 3 -1
+numerror11(1 4)=4 0 4 -1
+numerror11(1 6)=7 0 7 -1
+numerror11(1 6)=7 0 7 -1
+numerror11(4 1)=7 0 7 -1
+numerror11(4 2)=8 1 7 -1
+numerror11(4 4)=7 0 7 -1
+numerror11(4 6)=7 0 7 -1
+numerror11(4 8)=7 0 7 -1
+numerror11(4 10)=7 0 7 -1
+numerror11(4 12)=7 0 7 -1
+numerror11(4 14)=7 0 7 -1
+numerror11(4 16)=7 0 7 -1
+numerror11(4 18)=7 0 7 -1
+numerror11(4 20)=7 0 7 -1
+numerror11(4 22)=8 0 8 -1
+numerror11(4 24)=9 0 9 -1
+numerror11(4 24)=9 0 9 -1
+(n, minnumerror3)=(30, 3, 0, 3)
+num(7,8,2)=30
+
+numerror11(1 1)=3 3 0 -1
+numerror11(1 2)=3 3 0 -1
+numerror11(1 4)=3 3 0 -1
+numerror11(1 6)=2 2 0 -1
+numerror11(1 8)=2 2 0 -1
+numerror11(1 10)=2 2 0 -1
+numerror11(1 12)=2 2 0 -1
+numerror11(1 14)=2 2 0 -1
+numerror11(1 16)=2 2 0 -1
+numerror11(1 18)=2 2 0 -1
+numerror11(1 20)=2 2 0 -1
+numerror11(1 22)=1 1 0 -1
+numerror11(1 24)=1 1 0 -1
+numerror11(1 26)=1 1 0 -1
+numerror11(1 28)=1 1 0 -1
+numerror11(1 30)=1 1 0 -1
+numerror11(1 32)=1 1 0 -1
+numerror11(1 34)=1 1 0 -1
+numerror11(1 36)=1 1 0 -1
+numerror11(1 38)=2 2 0 -1
+numerror11(1 40)=2 2 0 -1
+numerror11(1 40)=2 2 0 -1
+numerror11(5 1)=2 2 0 -1
+numerror11(5 2)=2 2 0 -1
+numerror11(5 4)=2 2 0 -1
+numerror11(5 6)=2 2 0 -1
+numerror11(5 8)=2 2 0 -1
+numerror11(5 10)=2 2 0 -1
+numerror11(5 12)=2 2 0 -1
+numerror11(5 14)=2 2 0 -1
+numerror11(5 16)=2 2 0 -1
+numerror11(5 18)=2 2 0 -1
+numerror11(5 20)=2 2 0 -1
+numerror11(5 22)=2 2 0 -1
+numerror11(5 24)=1 1 0 -1
+numerror11(5 26)=2 2 0 -1
+numerror11(5 28)=1 1 0 -1
+numerror11(5 30)=2 2 0 -1
+numerror11(5 32)=2 2 0 -1
+numerror11(5 34)=2 2 0 -1
+numerror11(5 36)=1 1 0 -1
+numerror11(5 38)=1 1 0 -1
+numerror11(5 40)=1 1 0 -1
+numerror11(5 42)=1 1 0 -1
+numerror11(5 44)=1 1 0 -1
+numerror11(5 46)=1 1 0 -1
+numerror11(5 48)=1 1 0 -1
+numerror11(5 50)=1 1 0 -1
+numerror11(5 52)=1 1 0 -1
+numerror11(5 54)=2 2 0 -1
+numerror11(5 56)=2 2 0 -1
+numerror11(5 58)=1 1 0 -1
+numerror11(5 60)=1 1 0 -1
+numerror11(5 62)=2 2 0 -1
+numerror11(5 64)=1 1 0 -1
+numerror11(5 66)=1 1 0 -1
+numerror11(5 68)=2 2 0 -1
+numerror11(5 70)=1 1 0 -1
+numerror11(5 72)=1 1 0 -1
+numerror11(5 74)=2 2 0 -1
+numerror11(5 76)=1 1 0 -1
+numerror11(5 78)=2 2 0 -1
+numerror11(5 80)=1 1 0 -1
+numerror11(5 82)=2 2 0 -1
+numerror11(5 84)=1 1 0 -1
+numerror11(5 86)=2 2 0 -1
+numerror11(5 88)=1 1 0 -1
+numerror11(5 90)=2 2 0 -1
+numerror11(5 92)=1 1 0 -1
+numerror11(5 94)=2 2 0 -1
+numerror11(5 96)=1 1 0 -1
+numerror11(5 98)=1 1 0 -1
+numerror11(5 100)=1 1 0 -1
+numerror11(5 102)=1 1 0 -1
+numerror11(5 104)=2 2 0 -1
+numerror11(5 106)=1 1 0 -1
+numerror11(5 108)=1 1 0 -1
+numerror11(5 110)=2 2 0 -1
+numerror11(5 112)=1 1 0 -1
+numerror11(5 114)=1 1 0 -1
+numerror11(5 116)=2 2 0 -1
+numerror11(5 118)=1 1 0 -1
+numerror11(5 120)=1 1 0 -1
+numerror11(5 122)=1 1 0 -1
+numerror11(5 124)=1 1 0 -1
+numerror11(5 126)=1 1 0 -1
+numerror11(5 128)=1 1 0 -1
+numerror11(5 130)=2 2 0 -1
+numerror11(5 132)=1 1 0 -1
+numerror11(5 134)=1 1 0 -1
+numerror11(5 136)=1 1 0 -1
+numerror11(5 138)=2 2 0 -1
+numerror11(5 140)=1 1 0 -1
+numerror11(5 142)=1 1 0 -1
+numerror11(5 144)=1 1 0 -1
+numerror11(5 146)=1 1 0 -1
+numerror11(5 148)=1 1 0 -1
+numerror11(5 150)=1 1 0 -1
+numerror11(5 150)=1 1 0 -1
+(n, minnumerror3)=(190, 1, 1, 0)
+num(7,8,3)=190
+
+numerror11(1 1)=2 2 0 -1
+numerror11(1 2)=2 2 0 -1
+numerror11(1 4)=2 2 0 -1
+numerror11(1 6)=2 2 0 -1
+numerror11(1 8)=2 2 0 -1
+numerror11(1 10)=2 2 0 -1
+numerror11(1 12)=2 2 0 -1
+numerror11(1 14)=1 1 0 -1
+numerror11(1 16)=2 2 0 -1
+numerror11(1 18)=0 0 0 -1
+numerror11(1 18)=0 0 0 -1
+(n, minnumerror3)=(18, 0, 0, 0)
+num(7,8,5)=18
+
+numerror11(1 1)=7 1 6 -1
+numerror11(1 2)=9 1 8 -1
+numerror11(1 4)=10 1 9 -1
+numerror11(1 5)=10 1 9 -1
+numerror11(5 1)=13 1 12 -1
+numerror11(5 2)=12 1 11 -1
+numerror11(5 4)=12 1 11 -1
+numerror11(5 6)=11 1 10 -1
+numerror11(5 8)=12 1 11 -1
+numerror11(5 10)=12 1 11 -1
+numerror11(5 11)=12 1 11 -1
+(n, minnumerror3)=(16, 7, 1, 6)
+num(7,8,6)=16
+
+minnumerror5=8  3  1  0  0  7  0  0, sum=19
+minnumerror6=3  2  1  0  0  7  0  0, sum=13
+
+numtr0 =
+
+     9     4
+
+
+ans =
+
+     0     2     0     0     0     7     0     0
+     3     0     1     0     0     0     0     0
+
+
+ans =
+
+    13
+
+minnumerror6=3  2  1  0  0  7  0  0, sum=13
+
+t1 =
+
+   20.8250
+
+
+aver_index =
+
+    0.0551    0.0551    0.0478    0.0478
+
+
+numtr_0 =
+
+     9     9     9     9
+
+
+imin =
+
+     3
+
+
+imin1 =
+
+     3
+
+
+aver_min =
+
+    0.0478
+
+
+imin =
+
+     3
+
+
+numtr0 =
+
+     9     4
+
+
+ans =
+
+     0     2     0     0     0     7     0     0
+     3     0     1     0     0     0     0     0
+
+
+ans =
+
+    13
+
+minnumerror2(7,8)=minnumerror2(40)=13
+
+ans =
+
+  Columns 1 through 22 
+
+     0     0     0     0     0     0     0     0     0     0     0     0     0     0     4     3     2     0     0     1     3     6
+
+  Columns 23 through 40 
+
+     8    12     0     0     0     2     2     3     2     0     2     0     0     7     7    13     7    13
+
+
+t1 =
+
+   20.8550
+
+numerror(1)=30 10 20 -1
+numerror(2)=30 10 20 -1
+numerror(3)=31 10 21 -1
+numerror(4)=31 10 21 -1
+numerror(5)=31 10 21 -1
+numerror(6)=31 10 21 -1
+(p, q)=54, 137
+numerror(1)=29 7 22 -1
+numerror(2)=29 7 22 -1
+numerror(3)=32 9 23 -1
+numerror(4)=32 9 23 -1
+numerror(5)=34 10 24 -1
+numerror(6)=33 9 24 -1
+(p, q)=54, 57
+numerror(1)=23 9 14 -1
+numerror(2)=24 9 15 -1
+numerror(3)=27 11 16 -1
+numerror(4)=27 11 16 -1
+numerror(5)=27 12 15 -1
+n0=3;k0=41;minnumerror1=230;minnumerror2(k0)=230
+num(7,9)=17
+minnumerror02(7,9)=9  14  23
+
+numtr0 =
+
+     9    14
+
+
+ans =
+
+     0     9     0     0
+    12     0     2     0
+
+
+ans =
+
+    23
+
+
+t1 =
+
+   20.9780
+
+
+n_tr3 =
+
+     1    48    48     1
+    49    60    12     2
+    61    69     9     3
+    70   203   134     4
+   204   255    52     5
+   256   257     2     6
+     0     0     0     7
+   258   395   138     8
+
+numerror11(1 1)=15 12 3 -1
+numerror11(1 2)=15 11 4 -1
+numerror11(1 4)=16 12 4 -1
+numerror11(1 6)=21 16 5 -1
+numerror11(1 6)=21 16 5 -1
+numerror11(5 1)=21 16 5 -1
+numerror11(5 2)=23 18 5 -1
+numerror11(5 4)=23 18 5 -1
+numerror11(5 5)=23 18 5 -1
+(n, minnumerror3)=(11, 15, 11, 4)
+num(7,9,1)=11
+
+numerror11(1 1)=39 2 37 -1
+numerror11(1 2)=38 2 36 -1
+numerror11(1 4)=38 2 36 -1
+numerror11(1 6)=43 2 41 -1
+numerror11(1 8)=43 3 40 -1
+numerror11(1 8)=43 3 40 -1
+(p, q)=9, 53
+numerror11(7 1)=31 4 27 -1
+numerror11(7 2)=37 4 33 -1
+numerror11(7 4)=36 4 32 -1
+numerror11(7 5)=34 4 30 -1
+(n, minnumerror3)=(13, 31, 4, 27)
+num(7,9,2)=13
+
+numerror11(1 1)=6 6 0 -1
+numerror11(1 2)=6 6 0 -1
+numerror11(1 4)=6 6 0 -1
+numerror11(1 6)=7 7 0 -1
+numerror11(1 7)=6 6 0 -1
+numerror11(5 1)=6 6 0 -1
+numerror11(5 2)=7 7 0 -1
+numerror11(5 4)=7 7 0 -1
+numerror11(5 5)=8 8 0 -1
+(n, minnumerror3)=(12, 5, 5, 0)
+num(7,9,3)=12
+
+minnumerror3_1(1,2,3,4)=15 31 5 0, sum=51
+minnumerror2(7,9)=minnumerror2(41)=23
+minnumerror4(1, 2, 3, 4)=12 9 2 0, sum=23
+
+numtr0 =
+
+     9    14
+
+
+ans =
+
+     0     9     0     0
+    12     0     2     0
+
+
+ans =
+
+    23
+
+minnumerror2(7,9)=minnumerror2(41)=23
+minnumerror4(1, 2, 3, 4)=12 9 2 0, sum=23
+
+t1 =
+
+   21.2000
+
+
+ w12*w5=3.46945e-018
+
+n_tr5 =
+
+     1    38    38     1
+    39    45     7     2
+    46    50     5     3
+    51   115    65     4
+   116   154    39     5
+   155   156     2     6
+     0     0     0     7
+   157   225    69     8
+   226   235    10     9
+   236   240     5    10
+   241   244     4    11
+   245   313    69    12
+   314   326    13    13
+     0     0     0    14
+     0     0     0    15
+   327   395    69    16
+
+numerror11(1 1)=10 9 1 -1
+numerror11(1 2)=8 7 1 -1
+numerror11(1 4)=7 6 1 -1
+numerror11(1 6)=9 7 2 -1
+numerror11(1 8)=10 8 2 -1
+numerror11(1 8)=10 8 2 -1
+numerror11(5 1)=12 10 2 -1
+numerror11(5 2)=12 10 2 -1
+numerror11(5 4)=12 10 2 -1
+numerror11(5 6)=12 10 2 -1
+numerror11(5 8)=12 10 2 -1
+numerror11(5 10)=13 10 3 -1
+numerror11(5 12)=13 10 3 -1
+numerror11(5 13)=13 10 3 -1
+(n, minnumerror3)=(21, 7, 6, 1)
+num(7,9,1)=21
+
+numerror11(1 1)=13 1 12 -1
+numerror11(1 2)=13 1 12 -1
+numerror11(1 4)=13 1 12 -1
+numerror11(1 6)=14 1 13 -1
+numerror11(1 8)=15 1 14 -1
+numerror11(1 8)=15 1 14 -1
+(p, q)=5, 28
+numerror11(6 1)=6 1 5 -1
+numerror11(6 2)=8 1 7 -1
+numerror11(6 4)=7 1 6 -1
+numerror11(6 5)=7 1 6 -1
+(n, minnumerror3)=(13, 6, 1, 5)
+num(7,9,2)=13
+
+numerror11(1 1)=4 4 0 -1
+numerror11(1 2)=3 3 0 -1
+numerror11(1 4)=3 3 0 -1
+numerror11(1 6)=3 3 0 -1
+numerror11(1 8)=3 3 0 -1
+numerror11(1 10)=2 2 0 -1
+numerror11(1 12)=2 2 0 -1
+numerror11(1 14)=2 2 0 -1
+numerror11(1 16)=2 2 0 -1
+numerror11(1 18)=2 2 0 -1
+numerror11(1 20)=2 2 0 -1
+numerror11(1 22)=2 2 0 -1
+numerror11(1 24)=2 2 0 -1
+numerror11(1 26)=1 1 0 -1
+numerror11(1 28)=2 2 0 -1
+numerror11(1 30)=1 1 0 -1
+numerror11(1 32)=1 1 0 -1
+numerror11(1 34)=1 1 0 -1
+numerror11(1 36)=1 1 0 -1
+numerror11(1 37)=0 0 0 -1
+(n, minnumerror3)=(37, 0, 0, 0)
+num(7,9,3)=37
+
+numerror11(1 1)=6 4 2 -1
+numerror11(1 2)=5 3 2 -1
+numerror11(1 4)=5 3 2 -1
+numerror11(1 6)=6 4 2 -1
+numerror11(1 8)=6 4 2 -1
+numerror11(1 10)=6 5 1 -1
+numerror11(1 12)=8 5 3 -1
+numerror11(1 13)=8 5 3 -1
+numerror11(3 1)=8 5 3 -1
+numerror11(3 2)=8 5 3 -1
+numerror11(3 4)=8 5 3 -1
+numerror11(3 6)=8 5 3 -1
+numerror11(3 8)=9 5 4 -1
+numerror11(3 10)=6 4 2 -1
+numerror11(3 12)=8 5 3 -1
+numerror11(3 14)=8 5 3 -1
+numerror11(3 14)=8 5 3 -1
+(n, minnumerror3)=(27, 5, 3, 2)
+num(7,9,5)=27
+
+numerror11(1 1)=14 1 13 -1
+numerror11(1 2)=14 1 13 -1
+numerror11(1 4)=14 1 13 -1
+numerror11(1 6)=14 1 13 -1
+numerror11(1 8)=16 1 15 -1
+numerror11(1 10)=18 1 17 -1
+numerror11(1 11)=21 1 20 -1
+(p, q)=4, 31
+numerror11(6 1)=18 2 16 -1
+numerror11(6 2)=18 2 16 -1
+numerror11(6 4)=21 2 19 -1
+numerror11(6 6)=21 2 19 -1
+numerror11(6 6)=21 2 19 -1
+(n, minnumerror3)=(17, 14, 1, 13)
+num(7,9,6)=17
+
+minnumerror5=7  6  0  0  5  14  0  0, sum=32
+minnumerror6=7  5  0  0  5  4  0  0, sum=21
+
+numtr0 =
+
+     9    12
+
+
+ans =
+
+     0     5     0     0     0     4     0     0
+     7     0     0     0     5     0     0     0
+
+
+ans =
+
+    21
+
+minnumerror6=7  5  0  0  5  4  0  0, sum=21
+
+t1 =
+
+   21.6690
+
+
+n_tr7 =
+
+     1     3     3     1
+     0     0     0     2
+     0     0     0     3
+     4     7     4     4
+     8    26    19     5
+    27    27     1     6
+     0     0     0     7
+    28    61    34     8
+    62    96    35     9
+    97   103     7    10
+   104   108     5    11
+   109   169    61    12
+   170   189    20    13
+   190   190     1    14
+     0     0     0    15
+   191   225    35    16
+   226   230     5    17
+   231   232     2    18
+   233   235     3    19
+   236   273    38    20
+   274   279     6    21
+     0     0     0    22
+     0     0     0    23
+   280   313    34    24
+   314   318     5    25
+   319   321     3    26
+   322   322     1    27
+   323   353    31    28
+   354   360     7    29
+     0     0     0    30
+     0     0     0    31
+   361   395    35    32
+
+numerror11(1 1)=9 8 1 -1
+numerror11(1 2)=9 8 1 -1
+numerror11(1 4)=7 5 2 -1
+numerror11(1 6)=7 5 2 -1
+numerror11(1 8)=10 8 2 -1
+numerror11(1 10)=10 8 2 -1
+numerror11(1 10)=10 8 2 -1
+numerror11(5 1)=10 8 2 -1
+numerror11(5 2)=10 8 2 -1
+numerror11(5 4)=12 10 2 -1
+numerror11(5 6)=12 10 2 -1
+numerror11(5 6)=12 10 2 -1
+(n, minnumerror3)=(16, 7, 5, 2)
+num(7,9,5)=16
+
+numerror11(1 1)=13 1 12 -1
+numerror11(1 2)=13 1 12 -1
+numerror11(1 4)=14 1 13 -1
+numerror11(1 6)=14 1 13 -1
+numerror11(1 7)=14 1 13 -1
+numerror11(6 1)=12 1 11 -1
+numerror11(6 2)=12 1 11 -1
+numerror11(6 4)=11 1 10 -1
+numerror11(6 6)=10 1 9 -1
+numerror11(6 8)=11 1 10 -1
+numerror11(6 10)=13 1 12 -1
+numerror11(6 11)=14 1 13 -1
+(n, minnumerror3)=(18, 10, 1, 9)
+num(7,9,6)=18
+
+numerror11(1 1)=0 0 0 -1
+numerror11(1 1)=0 0 0 -1
+(n, minnumerror3)=(1, 0, 0, 0)
+num(7,9,9)=1
+
+numerror11(1 1)=4 0 4 -1
+numerror11(1 2)=5 0 5 -1
+numerror11(1 4)=5 0 5 -1
+numerror11(1 5)=6 0 6 -1
+numerror11(5 1)=6 0 6 -1
+numerror11(5 2)=6 0 6 -1
+numerror11(5 4)=6 0 6 -1
+numerror11(5 6)=6 0 6 -1
+numerror11(5 8)=7 0 7 -1
+numerror11(5 10)=8 0 8 -1
+numerror11(5 10)=8 0 8 -1
+(n, minnumerror3)=(15, 4, 0, 4)
+num(7,9,10)=15
+
+numerror11(1 1)=0 0 0 -1
+numerror11(1 1)=0 0 0 -1
+(n, minnumerror3)=(1, 0, 0, 0)
+num(7,9,13)=1
+
+numerror11(1 1)=0 0 0 -1
+numerror11(1 1)=0 0 0 -1
+(n, minnumerror3)=(1, 0, 0, 0)
+num(7,9,14)=1
+
+
+numtr0 =
+
+     6    15
+
+
+ans =
+
+     0     0     0     0     5     1     0     0     0     0     0     0     0     0     0     0
+     0     0     0     0     2     9     0     0     0     4     0     0     0     0     0     0
+
+
+ans =
+
+    21
+
+minnumerror7=0, 0, 0, 0, 7, 10, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, sum=21
+minnumerror8=0, 0, 0, 0, 7, 5, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0
+sum(minnumerror8)=15
+
+numtr0 =
+
+     8     7
+
+
+ans =
+
+     0     0     0     0     0     5     0     0     0     3     0     0     0     0     0     0
+     0     0     0     0     7     0     0     0     0     0     0     0     0     0     0     0
+
+
+ans =
+
+    15
+
+
+aver_index =
+
+    0.0582    0.0582    0.0532    0.0380
+
+
+numtr_0 =
+
+     9     9     9     8
+
+
+imin =
+
+     4
+
+
+imin1 =
+
+     4
+
+
+aver_min =
+
+    0.0380
+
+
+imin =
+
+     4
+
+minnumerror2(7,9)=minnumerror2(41)=15
+
+ans =
+
+  Columns 1 through 22 
+
+     0     0     0     0     0     0     0     0     0     0     0     0     0     0     4     3     2     0     0     1     3     6
+
+  Columns 23 through 41 
+
+     8    12     0     0     0     2     2     3     2     0     2     0     0     7     7    13     7    13    15
+
+
+t1 =
+
+   22.0010
+
+numerror(1)=18 6 12 1
+numerror(2)=18 6 12 1
+numerror(3)=18 6 12 1
+numerror(4)=17 6 11 1
+numerror(5)=17 6 11 1
+numerror(6)=16 6 10 1
+numerror(7)=17 6 11 1
+numerror(8)=16 6 10 1
+numerror(9)=16 6 10 1
+numerror(10)=16 6 10 1
+numerror(11)=17 6 11 1
+numerror(12)=17 6 11 1
+numerror(13)=18 7 11 1
+numerror(14)=18 7 11 1
+(p, q)=55, 164
+numerror(1)=16 4 12 -1
+numerror(2)=16 4 12 -1
+numerror(3)=16 4 12 -1
+numerror(4)=16 4 12 -1
+numerror(5)=18 4 14 -1
+numerror(6)=18 4 14 -1
+numerror(7)=17 4 13 -1
+numerror(8)=17 4 13 -1
+(p, q)=55, 66
+numerror(1)=15 9 6 -1
+numerror(2)=14 8 6 -1
+numerror(3)=14 8 6 -1
+numerror(4)=14 8 6 -1
+numerror(5)=14 8 6 -1
+numerror(6)=13 7 6 -1
+numerror(7)=13 7 6 -1
+numerror(8)=13 7 6 -1
+numerror(9)=13 7 6 -1
+numerror(10)=13 7 6 -1
+numerror(11)=13 7 6 -1
+numerror(12)=13 7 6 -1
+numerror(13)=13 7 6 -1
+numerror(14)=13 7 6 -1
+numerror(15)=13 7 6 -1
+numerror(16)=13 7 6 -1
+numerror(17)=13 7 6 -1
+numerror(18)=13 7 6 -1
+numerror(19)=13 7 6 -1
+numerror(20)=13 7 6 -1
+numerror(21)=13 7 6 -1
+numerror(22)=13 7 6 -1
+numerror(23)=13 7 6 -1
+numerror(24)=13 7 6 -1
+numerror(25)=13 7 6 -1
+numerror(26)=13 7 6 -1
+numerror(27)=13 7 6 -1
+numerror(28)=13 7 6 -1
+numerror(29)=13 7 6 -1
+numerror(30)=13 7 6 -1
+numerror(31)=14 7 7 -1
+numerror(32)=14 7 7 -1
+numerror(33)=14 7 7 -1
+numerror(34)=15 7 8 -1
+(p, q)=55, 29
+numerror(1)=14 11 3 -1
+numerror(2)=15 10 5 -1
+numerror(3)=15 10 5 -1
+numerror(4)=15 10 5 -1
+numerror(5)=15 10 5 -1
+n0=4;k0=42;minnumerror1=140;minnumerror2(k0)=130
+num(7,10)=61
+minnumerror02(7,10)=7  6  13
+
+numtr0 =
+
+     7     6
+
+
+ans =
+
+     0     7     0     0
+     6     0     0     0
+
+
+ans =
+
+    13
+
+
+t1 =
+
+   22.3490
+
+
+n_tr3 =
+
+     1    52    52     1
+    53    58     6     2
+    59    65     7     3
+    66   225   160     4
+   226   275    50     5
+     0     0     0     6
+     0     0     0     7
+   276   418   143     8
+
+numerror11(1 1)=8 8 0 -1
+numerror11(1 2)=8 8 0 -1
+numerror11(1 4)=9 9 0 -1
+numerror11(1 6)=10 10 0 -1
+numerror11(1 6)=10 10 0 -1
+numerror11(5 1)=11 11 0 -1
+numerror11(5 2)=11 11 0 -1
+numerror11(5 4)=11 11 0 -1
+numerror11(5 6)=11 11 0 -1
+numerror11(5 8)=13 12 1 -1
+numerror11(5 10)=13 11 2 -1
+numerror11(5 11)=15 13 2 -1
+(n, minnumerror3)=(17, 8, 8, 0)
+num(7,10,1)=17
+
+numerror11(1 1)=32 1 31 -1
+numerror11(1 2)=34 1 33 -1
+numerror11(1 4)=37 1 36 -1
+numerror11(1 5)=39 1 38 -1
+(p, q)=7, 59
+numerror11(7 1)=28 2 26 -1
+numerror11(7 2)=27 1 26 -1
+numerror11(7 4)=31 2 29 -1
+numerror11(7 6)=31 2 29 -1
+numerror11(7 6)=31 2 29 -1
+(n, minnumerror3)=(11, 27, 1, 26)
+num(7,10,2)=11
+
+minnumerror3_1(1,2,3,4)=8 27 0 0, sum=35
+minnumerror2(7,10)=minnumerror2(42)=13
+minnumerror4(1, 2, 3, 4)=6 7 0 0, sum=13
+
+numtr0 =
+
+     7     6
+
+
+ans =
+
+     0     7     0     0
+     6     0     0     0
+
+
+ans =
+
+    13
+
+minnumerror2(7,10)=minnumerror2(42)=13
+minnumerror4(1, 2, 3, 4)=6 7 0 0, sum=13
+
+t1 =
+
+   22.5220
+
+
+ w12*w5=0
+
+n_tr5 =
+
+     1    33    33     1
+    34    35     2     2
+    36    38     3     3
+    39   131    93     4
+   132   156    25     5
+     0     0     0     6
+     0     0     0     7
+   157   227    71     8
+   228   246    19     9
+   247   250     4    10
+   251   254     4    11
+   255   321    67    12
+   322   346    25    13
+     0     0     0    14
+     0     0     0    15
+   347   418    72    16
+
+numerror11(1 1)=2 2 0 -1
+numerror11(1 2)=2 2 0 -1
+numerror11(1 4)=3 3 0 -1
+numerror11(1 6)=2 2 0 -1
+numerror11(1 8)=2 2 0 -1
+numerror11(1 10)=2 2 0 -1
+numerror11(1 12)=2 2 0 -1
+numerror11(1 14)=2 2 0 -1
+numerror11(1 16)=2 2 0 -1
+numerror11(1 18)=2 2 0 -1
+numerror11(1 20)=2 2 0 -1
+numerror11(1 22)=1 1 0 -1
+numerror11(1 24)=1 1 0 -1
+numerror11(1 26)=2 2 0 -1
+numerror11(1 28)=1 1 0 -1
+numerror11(1 30)=1 1 0 -1
+numerror11(1 32)=2 2 0 -1
+numerror11(1 34)=1 1 0 -1
+numerror11(1 36)=2 2 0 -1
+numerror11(1 37)=0 0 0 -1
+(n, minnumerror3)=(37, 0, 0, 0)
+num(7,10,1)=37
+
+numerror11(1 1)=11 0 11 -1
+numerror11(1 2)=11 0 11 -1
+numerror11(1 4)=14 0 14 -1
+numerror11(1 6)=13 0 13 -1
+numerror11(1 6)=13 0 13 -1
+(p, q)=3, 40
+numerror11(6 1)=8 0 8 -1
+numerror11(6 2)=8 0 8 -1
+numerror11(6 4)=9 0 9 -1
+numerror11(6 6)=9 0 9 -1
+numerror11(6 7)=9 0 9 -1
+(n, minnumerror3)=(13, 8, 0, 8)
+num(7,10,2)=13
+
+numerror11(1 1)=4 4 0 -1
+numerror11(1 2)=5 5 0 -1
+numerror11(1 4)=5 4 1 -1
+numerror11(1 5)=5 4 1 -1
+numerror11(4 1)=7 6 1 -1
+numerror11(4 2)=7 6 1 -1
+numerror11(4 4)=8 6 2 -1
+numerror11(4 6)=8 6 2 -1
+numerror11(4 7)=8 6 2 -1
+(n, minnumerror3)=(12, 4, 4, 0)
+num(7,10,5)=12
+
+numerror11(1 1)=13 1 12 -1
+numerror11(1 2)=18 1 17 -1
+numerror11(1 4)=22 1 21 -1
+numerror11(1 5)=23 1 22 -1
+(p, q)=4, 27
+numerror11(6 1)=10 1 9 -1
+numerror11(6 2)=9 1 8 -1
+numerror11(6 4)=10 1 9 -1
+numerror11(6 6)=10 1 9 -1
+numerror11(6 6)=10 1 9 -1
+(n, minnumerror3)=(11, 9, 1, 8)
+num(7,10,6)=11
+
+minnumerror5=0  8  0  0  4  9  0  0, sum=21
+minnumerror6=0  3  0  0  4  4  0  0, sum=11
+
+numtr0 =
+
+     7     4
+
+
+ans =
+
+     0     3     0     0     0     4     0     0
+     0     0     0     0     4     0     0     0
+
+
+ans =
+
+    11
+
+minnumerror6=0  3  0  0  4  4  0  0, sum=11
+
+t1 =
+
+   22.8550
+
+
+aver_index =
+
+    0.0311    0.0311    0.0263    0.0263
+
+
+numtr_0 =
+
+     7     7     7     7
+
+
+imin =
+
+     3
+
+
+imin1 =
+
+     3
+
+
+aver_min =
+
+    0.0263
+
+
+imin =
+
+     3
+
+
+numtr0 =
+
+     7     4
+
+
+ans =
+
+     0     3     0     0     0     4     0     0
+     0     0     0     0     4     0     0     0
+
+
+ans =
+
+    11
+
+minnumerror2(7,10)=minnumerror2(42)=11
+
+ans =
+
+  Columns 1 through 22 
+
+     0     0     0     0     0     0     0     0     0     0     0     0     0     0     4     3     2     0     0     1     3     6
+
+  Columns 23 through 42 
+
+     8    12     0     0     0     2     2     3     2     0     2     0     0     7     7    13     7    13    15    11
+
+
+t1 =
+
+   22.8900
+
+numerror(1)=79 33 46 1
+numerror(2)=82 33 49 1
+numerror(3)=81 35 46 1
+numerror(4)=81 32 49 1
+numerror(5)=84 33 51 1
+(p, q)=71, 135
+numerror(1)=74 28 46 -1
+numerror(2)=74 29 45 -1
+numerror(3)=77 30 47 -1
+numerror(4)=80 30 50 -1
+numerror(5)=82 27 55 -1
+numerror(6)=82 27 55 -1
+(p, q)=26, 47
+numerror(1)=72 29 43 -1
+numerror(2)=74 29 45 -1
+numerror(3)=73 29 44 -1
+numerror(4)=72 29 43 -1
+numerror(5)=70 27 43 -1
+numerror(6)=72 28 44 -1
+numerror(7)=74 28 46 -1
+numerror(8)=76 31 45 -1
+numerror(9)=79 32 47 -1
+n0=3;k0=43;minnumerror1=700;minnumerror2(k0)=700
+num(8,9)=20
+minnumerror02(8,9)=27  43  70
+
+numtr0 =
+
+    27    43
+
+
+ans =
+
+     0    21     0     6
+    30     0    13     0
+
+
+ans =
+
+    70
+
+
+t1 =
+
+   23.0340
+
+
+n_tr3 =
+
+     1    49    49     1
+    50    79    30     2
+    80   100    21     3
+   101   224   124     4
+   225   311    87     5
+   312   324    13     6
+   325   330     6     7
+   331   449   119     8
+
+numerror11(1 1)=33 21 12 -1
+numerror11(1 2)=34 21 13 -1
+numerror11(1 4)=36 22 14 -1
+numerror11(1 5)=36 22 14 -1
+numerror11(6 1)=37 23 14 -1
+numerror11(6 2)=37 23 14 -1
+numerror11(6 4)=36 23 13 -1
+numerror11(6 6)=34 25 9 -1
+numerror11(6 8)=36 30 6 -1
+numerror11(6 10)=34 30 4 -1
+numerror11(6 11)=37 33 4 -1
+(n, minnumerror3)=(16, 33, 21, 12)
+num(8,9,1)=16
+
+numerror11(1 1)=56 7 49 -1
+numerror11(1 2)=57 7 50 -1
+numerror11(1 4)=62 8 54 -1
+numerror11(1 5)=65 7 58 -1
+(p, q)=21, 20
+numerror11(7 1)=59 7 52 -1
+numerror11(7 2)=62 8 54 -1
+numerror11(7 4)=61 7 54 -1
+numerror11(7 5)=60 7 53 -1
+(n, minnumerror3)=(10, 56, 7, 49)
+num(8,9,2)=10
+
+numerror11(1 1)=38 31 7 -1
+numerror11(1 2)=41 34 7 -1
+numerror11(1 4)=43 35 8 -1
+numerror11(1 5)=43 35 8 -1
+(p, q)=25, 13
+numerror11(6 1)=37 28 9 -1
+numerror11(6 2)=28 19 9 -1
+numerror11(6 4)=30 21 9 -1
+numerror11(6 6)=36 27 9 -1
+numerror11(6 6)=36 27 9 -1
+(n, minnumerror3)=(11, 28, 19, 9)
+num(8,9,3)=11
+
+numerror11(1 1)=37 2 35 -1
+numerror11(1 2)=37 2 35 -1
+numerror11(1 4)=35 2 33 -1
+numerror11(1 6)=34 2 32 -1
+numerror11(1 8)=32 1 31 -1
+numerror11(1 10)=33 1 32 -1
+numerror11(1 12)=34 1 33 -1
+numerror11(1 12)=34 1 33 -1
+(p, q)=6, 60
+numerror11(6 1)=26 2 24 -1
+numerror11(6 2)=27 2 25 -1
+numerror11(6 4)=30 2 28 -1
+numerror11(6 5)=30 2 28 -1
+(n, minnumerror3)=(17, 26, 2, 24)
+num(8,9,4)=17
+
+minnumerror3_1(1,2,3,4)=33 56 28 26, sum=143
+minnumerror2(8,9)=minnumerror2(43)=70
+minnumerror4(1, 2, 3, 4)=30 21 13 6, sum=70
+
+numtr0 =
+
+    27    43
+
+
+ans =
+
+     0    21     0     6
+    30     0    13     0
+
+
+ans =
+
+    70
+
+minnumerror2(8,9)=minnumerror2(43)=70
+minnumerror4(1, 2, 3, 4)=30 21 13 6, sum=70
+
+t1 =
+
+   23.3320
+
+
+ w12*w5=6.93889e-018
+
+n_tr5 =
+
+     1    28    28     1
+    29    43    15     2
+    44    55    12     3
+    56   119    64     4
+   120   158    39     5
+   159   160     2     6
+   161   161     1     7
+   162   216    55     8
+   217   237    21     9
+   238   252    15    10
+   253   261     9    11
+   262   321    60    12
+   322   369    48    13
+   370   380    11    14
+   381   385     5    15
+   386   449    64    16
+
+numerror11(1 1)=14 10 4 -1
+numerror11(1 2)=16 11 5 -1
+numerror11(1 4)=17 11 6 -1
+numerror11(1 5)=17 11 6 -1
+numerror11(5 1)=18 11 7 -1
+numerror11(5 2)=18 11 7 -1
+numerror11(5 4)=18 11 7 -1
+numerror11(5 6)=17 11 6 -1
+numerror11(5 8)=17 11 6 -1
+numerror11(5 10)=16 11 5 -1
+numerror11(5 12)=18 13 5 -1
+numerror11(5 14)=18 13 5 -1
+numerror11(5 16)=17 13 4 -1
+numerror11(5 18)=16 15 1 -1
+numerror11(5 20)=17 16 1 -1
+numerror11(5 22)=17 16 1 -1
+numerror11(5 23)=18 17 1 -1
+(n, minnumerror3)=(28, 14, 10, 4)
+num(8,9,1)=28
+
+numerror11(1 1)=30 4 26 -1
+numerror11(1 2)=31 4 27 -1
+numerror11(1 4)=32 5 27 -1
+numerror11(1 5)=32 5 27 -1
+(p, q)=12, 64
+(n, minnumerror3)=(5, 30, 4, 26)
+num(8,9,2)=5
+
+numerror11(1 1)=4 4 0 -1
+numerror11(1 2)=4 4 0 -1
+numerror11(1 4)=3 3 0 -1
+numerror11(1 6)=3 3 0 -1
+numerror11(1 8)=3 3 0 -1
+numerror11(1 10)=3 3 0 -1
+numerror11(1 12)=3 3 0 -1
+numerror11(1 14)=3 3 0 -1
+numerror11(1 16)=3 3 0 -1
+numerror11(1 18)=3 3 0 -1
+numerror11(1 20)=3 3 0 -1
+numerror11(1 22)=3 3 0 -1
+numerror11(1 24)=3 3 0 -1
+numerror11(1 26)=3 3 0 -1
+numerror11(1 28)=3 3 0 -1
+numerror11(1 30)=3 3 0 -1
+numerror11(1 32)=3 3 0 -1
+numerror11(1 34)=3 3 0 -1
+numerror11(1 36)=3 3 0 -1
+numerror11(1 38)=3 3 0 -1
+numerror11(1 40)=3 3 0 -1
+numerror11(1 42)=3 3 0 -1
+numerror11(1 44)=3 3 0 -1
+numerror11(1 46)=4 4 0 -1
+numerror11(1 48)=4 4 0 -1
+numerror11(1 49)=4 4 0 -1
+numerror11(5 1)=4 4 0 -1
+numerror11(5 2)=4 4 0 -1
+numerror11(5 4)=3 3 0 -1
+numerror11(5 6)=3 3 0 -1
+numerror11(5 8)=3 3 0 -1
+numerror11(5 10)=3 3 0 -1
+numerror11(5 12)=3 3 0 -1
+numerror11(5 14)=4 4 0 -1
+numerror11(5 16)=4 4 0 -1
+numerror11(5 16)=4 4 0 -1
+(n, minnumerror3)=(65, 3, 3, 0)
+num(8,9,3)=65
+
+numerror11(1 1)=0 0 0 -1
+numerror11(1 1)=0 0 0 -1
+(n, minnumerror3)=(1, 0, 0, 0)
+num(8,9,4)=1
+
+numerror11(1 1)=9 5 4 -1
+numerror11(1 2)=12 7 5 -1
+numerror11(1 4)=12 7 5 -1
+numerror11(1 5)=14 8 6 -1
+numerror11(5 1)=16 9 7 -1
+numerror11(5 2)=16 9 7 -1
+numerror11(5 4)=17 10 7 -1
+numerror11(5 6)=17 10 7 -1
+numerror11(5 6)=17 10 7 -1
+(n, minnumerror3)=(11, 9, 5, 4)
+num(8,9,5)=11
+
+numerror11(1 1)=15 2 13 -1
+numerror11(1 2)=15 2 13 -1
+numerror11(1 4)=14 2 12 -1
+numerror11(1 6)=14 2 12 -1
+numerror11(1 8)=19 2 17 -1
+numerror11(1 10)=21 1 20 -1
+numerror11(1 11)=21 1 20 -1
+numerror11(6 1)=21 1 20 -1
+numerror11(6 2)=23 1 22 -1
+numerror11(6 4)=24 1 23 -1
+numerror11(6 5)=24 1 23 -1
+(n, minnumerror3)=(16, 14, 2, 12)
+num(8,9,6)=16
+
+numerror11(1 1)=20 16 4 -1
+numerror11(1 2)=24 18 6 -1
+numerror11(1 4)=24 18 6 -1
+numerror11(1 5)=23 17 6 -1
+numerror11(5 1)=27 20 7 -1
+numerror11(5 2)=26 19 7 -1
+numerror11(5 4)=27 21 6 -1
+numerror11(5 6)=29 23 6 -1
+numerror11(5 6)=29 23 6 -1
+(n, minnumerror3)=(11, 20, 16, 4)
+num(8,9,7)=11
+
+numerror11(1 1)=17 2 15 -1
+numerror11(1 2)=19 2 17 -1
+numerror11(1 4)=19 2 17 -1
+numerror11(1 5)=19 2 17 -1
+(p, q)=5, 64
+(n, minnumerror3)=(5, 17, 2, 15)
+num(8,9,8)=5
+
+minnumerror5=14  30  3  0  9  14  20  17, sum=107
+minnumerror6=14  12  2  0  9  9  11  5, sum=62
+
+numtr0 =
+
+    41    21
+
+
+ans =
+
+    10    12     0     0     5     9     0     5
+     4     0     2     0     4     0    11     0
+
+
+ans =
+
+    62
+
+minnumerror6=14  12  2  0  9  9  11  5, sum=62
+
+t1 =
+
+   23.9320
+
+
+n_tr7 =
+
+     1     9     9     1
+    10    10     1     2
+    11    16     6     3
+    17    35    19     4
+    36    42     7     5
+    43    43     1     6
+     0     0     0     7
+    44    70    27     8
+    71    89    19     9
+    90   103    14    10
+   104   109     6    11
+   110   154    45    12
+   155   186    32    13
+   187   187     1    14
+   188   188     1    15
+   189   216    28    16
+   217   229    13    17
+   230   240    11    18
+   241   247     7    19
+   248   294    47    20
+   295   329    35    21
+   330   338     9    22
+   339   341     3    23
+   342   391    50    24
+   392   399     8    25
+   400   403     4    26
+   404   405     2    27
+   406   418    13    28
+   419   431    13    29
+   432   433     2    30
+   434   435     2    31
+   436   449    14    32
+
+numerror11(1 1)=0 0 0 -1
+numerror11(1 1)=0 0 0 -1
+(n, minnumerror3)=(1, 0, 0, 0)
+num(8,9,1)=1
+
+numerror11(1 1)=8 1 7 -1
+numerror11(1 2)=8 1 7 -1
+numerror11(1 4)=10 2 8 -1
+numerror11(1 6)=10 2 8 -1
+numerror11(1 6)=10 2 8 -1
+numerror11(4 1)=10 2 8 -1
+numerror11(4 2)=11 2 9 -1
+numerror11(4 4)=11 2 9 -1
+numerror11(4 5)=12 2 10 -1
+(n, minnumerror3)=(11, 8, 1, 7)
+num(8,9,2)=11
+
+numerror11(1 1)=0 0 0 -1
+numerror11(1 1)=0 0 0 -1
+(n, minnumerror3)=(1, 0, 0, 0)
+num(8,9,3)=1
+
+numerror11(1 1)=12 7 5 -1
+numerror11(1 2)=13 8 5 -1
+numerror11(1 4)=12 8 4 -1
+numerror11(1 6)=14 10 4 -1
+numerror11(1 8)=14 9 5 -1
+numerror11(1 9)=14 9 5 -1
+numerror11(5 1)=14 9 5 -1
+numerror11(5 2)=13 9 4 -1
+numerror11(5 4)=16 12 4 -1
+numerror11(5 6)=15 12 3 -1
+numerror11(5 6)=15 12 3 -1
+(n, minnumerror3)=(15, 12, 8, 4)
+num(8,9,5)=15
+
+numerror11(1 1)=17 2 15 -1
+numerror11(1 2)=17 2 15 -1
+numerror11(1 4)=15 1 14 -1
+numerror11(1 6)=16 1 15 -1
+numerror11(1 8)=19 1 18 -1
+numerror11(1 9)=19 1 18 -1
+numerror11(5 1)=19 1 18 -1
+numerror11(5 2)=19 1 18 -1
+numerror11(5 4)=19 1 18 -1
+numerror11(5 6)=19 1 18 -1
+numerror11(5 8)=18 1 17 -1
+numerror11(5 9)=18 1 17 -1
+(n, minnumerror3)=(18, 15, 1, 14)
+num(8,9,6)=18
+
+numerror11(1 1)=1 1 0 -1
+numerror11(1 2)=1 1 0 -1
+numerror11(1 4)=1 1 0 -1
+numerror11(1 6)=1 1 0 -1
+numerror11(1 8)=1 1 0 -1
+numerror11(1 10)=1 1 0 -1
+numerror11(1 12)=1 1 0 -1
+numerror11(1 14)=1 1 0 -1
+numerror11(1 16)=1 1 0 -1
+numerror11(1 18)=1 1 0 -1
+numerror11(1 20)=1 1 0 -1
+numerror11(1 22)=1 1 0 -1
+numerror11(1 23)=0 0 0 -1
+(n, minnumerror3)=(23, 0, 0, 0)
+num(8,9,7)=23
+
+numerror11(1 1)=4 2 2 -1
+numerror11(1 2)=5 2 3 -1
+numerror11(1 4)=5 3 2 -1
+numerror11(1 5)=5 3 2 -1
+numerror11(4 1)=5 3 2 -1
+numerror11(4 2)=6 3 3 -1
+numerror11(4 4)=6 3 3 -1
+numerror11(4 5)=6 3 3 -1
+(n, minnumerror3)=(10, 4, 2, 2)
+num(8,9,9)=10
+
+numerror11(1 1)=16 2 14 -1
+numerror11(1 2)=20 2 18 -1
+numerror11(1 4)=19 2 17 -1
+numerror11(1 5)=18 1 17 -1
+numerror11(5 1)=18 1 17 -1
+numerror11(5 2)=18 1 17 -1
+numerror11(5 4)=19 2 17 -1
+numerror11(5 6)=21 2 19 -1
+numerror11(5 7)=21 2 19 -1
+(n, minnumerror3)=(12, 16, 2, 14)
+num(8,9,10)=12
+
+numerror11(1 1)=20 15 5 -1
+numerror11(1 2)=20 15 5 -1
+numerror11(1 4)=23 17 6 -1
+numerror11(1 6)=23 18 5 -1
+numerror11(1 6)=23 18 5 -1
+numerror11(5 1)=24 18 6 -1
+numerror11(5 2)=24 18 6 -1
+numerror11(5 4)=23 17 6 -1
+numerror11(5 6)=23 17 6 -1
+numerror11(5 8)=23 17 6 -1
+numerror11(5 10)=23 17 6 -1
+numerror11(5 12)=23 17 6 -1
+numerror11(5 14)=23 17 6 -1
+numerror11(5 16)=23 17 6 -1
+numerror11(5 18)=23 17 6 -1
+numerror11(5 20)=23 17 6 -1
+numerror11(5 22)=23 17 6 -1
+numerror11(5 24)=23 17 6 -1
+numerror11(5 26)=23 17 6 -1
+numerror11(5 28)=23 17 6 -1
+numerror11(5 30)=23 17 6 -1
+numerror11(5 32)=23 17 6 -1
+numerror11(5 34)=23 17 6 -1
+numerror11(5 36)=23 17 6 -1
+numerror11(5 38)=23 17 6 -1
+numerror11(5 40)=23 17 6 -1
+numerror11(5 42)=23 17 6 -1
+numerror11(5 44)=23 17 6 -1
+numerror11(5 46)=23 17 6 -1
+numerror11(5 48)=23 17 6 -1
+numerror11(5 50)=23 17 6 -1
+numerror11(5 52)=23 17 6 -1
+numerror11(5 54)=23 17 6 -1
+numerror11(5 56)=23 17 6 -1
+numerror11(5 58)=23 17 6 -1
+numerror11(5 60)=23 17 6 -1
+numerror11(5 62)=23 17 6 -1
+numerror11(5 64)=23 17 6 -1
+numerror11(5 66)=23 17 6 -1
+numerror11(5 68)=23 17 6 -1
+numerror11(5 70)=23 17 6 -1
+numerror11(5 72)=23 17 6 -1
+numerror11(5 74)=23 17 6 -1
+numerror11(5 76)=23 17 6 -1
+numerror11(5 78)=23 17 6 -1
+numerror11(5 80)=23 17 6 -1
+numerror11(5 82)=23 17 6 -1
+numerror11(5 84)=23 17 6 -1
+numerror11(5 86)=23 17 6 -1
+numerror11(5 88)=23 17 6 -1
+numerror11(5 90)=23 17 6 -1
+numerror11(5 92)=23 17 6 -1
+numerror11(5 94)=23 17 6 -1
+numerror11(5 96)=23 17 6 -1
+numerror11(5 98)=23 17 6 -1
+numerror11(5 100)=23 17 6 -1
+numerror11(5 102)=23 17 6 -1
+numerror11(5 104)=23 17 6 -1
+numerror11(5 106)=23 17 6 -1
+numerror11(5 108)=23 17 6 -1
+numerror11(5 110)=23 17 6 -1
+numerror11(5 112)=23 17 6 -1
+numerror11(5 114)=23 17 6 -1
+numerror11(5 116)=23 17 6 -1
+numerror11(5 118)=23 17 6 -1
+numerror11(5 120)=23 17 6 -1
+numerror11(5 122)=23 17 6 -1
+numerror11(5 124)=23 17 6 -1
+numerror11(5 126)=23 17 6 -1
+numerror11(5 128)=23 17 6 -1
+numerror11(5 130)=23 17 6 -1
+numerror11(5 132)=23 17 6 -1
+numerror11(5 134)=23 17 6 -1
+numerror11(5 136)=23 17 6 -1
+numerror11(5 138)=23 17 6 -1
+numerror11(5 140)=23 17 6 -1
+numerror11(5 142)=23 17 6 -1
+numerror11(5 144)=23 17 6 -1
+numerror11(5 146)=23 17 6 -1
+numerror11(5 148)=23 17 6 -1
+numerror11(5 150)=23 17 6 -1
+numerror11(5 150)=23 17 6 -1
+(n, minnumerror3)=(156, 20, 15, 5)
+num(8,9,11)=156
+
+numerror11(1 1)=8 0 8 -1
+numerror11(1 2)=7 0 7 -1
+numerror11(1 4)=6 0 6 -1
+numerror11(1 6)=6 0 6 -1
+numerror11(1 8)=6 0 6 -1
+numerror11(1 10)=6 0 6 -1
+numerror11(1 12)=12 0 12 -1
+numerror11(1 14)=13 0 13 -1
+numerror11(1 14)=13 0 13 -1
+numerror11(5 1)=13 0 13 -1
+numerror11(5 2)=13 0 13 -1
+numerror11(5 4)=15 1 14 -1
+numerror11(5 6)=14 0 14 -1
+numerror11(5 7)=15 1 14 -1
+(n, minnumerror3)=(21, 6, 0, 6)
+num(8,9,12)=21
+
+numerror11(1 1)=3 2 1 -1
+numerror11(1 2)=3 2 1 -1
+numerror11(1 4)=2 2 0 -1
+numerror11(1 6)=2 2 0 -1
+numerror11(1 8)=2 2 0 -1
+numerror11(1 10)=5 4 1 -1
+numerror11(1 12)=5 4 1 -1
+numerror11(1 12)=5 4 1 -1
+numerror11(3 1)=4 3 1 -1
+numerror11(3 2)=6 4 2 -1
+numerror11(3 4)=2 2 0 -1
+numerror11(3 6)=4 3 1 -1
+numerror11(3 8)=5 3 2 -1
+numerror11(3 8)=5 3 2 -1
+(n, minnumerror3)=(20, 2, 2, 0)
+num(8,9,13)=20
+
+numerror11(1 1)=0 0 0 -1
+numerror11(1 1)=0 0 0 -1
+(n, minnumerror3)=(1, 0, 0, 0)
+num(8,9,14)=1
+
+numerror11(1 1)=0 0 0 -1
+numerror11(1 1)=0 0 0 -1
+(n, minnumerror3)=(1, 0, 0, 0)
+num(8,9,15)=1
+
+numerror11(1 1)=1 0 1 -1
+numerror11(1 2)=1 0 1 -1
+numerror11(1 4)=1 0 1 -1
+numerror11(1 6)=1 0 1 -1
+numerror11(1 8)=2 0 2 -1
+numerror11(1 9)=0 0 0 -1
+(n, minnumerror3)=(9, 0, 0, 0)
+num(8,9,16)=9
+
+
+numtr0 =
+
+    31    52
+
+
+ans =
+
+     0     1     0     0     8     1     0     0     2     2    15     0     2     0     0     0
+     0     7     0     0     4    14     0     0     2    14     5     6     0     0     0     0
+
+
+ans =
+
+    83
+
+minnumerror7=0, 8, 0, 0, 12, 15, 0, 0, 4, 16, 20, 6, 2, 0, 0, 0, sum=83
+minnumerror8=0, 6, 0, 0, 12, 6, 0, 0, 4, 7, 9, 3, 2, 0, 0, 0
+sum(minnumerror8)=49
+
+numtr0 =
+
+    34    15
+
+
+ans =
+
+     0     6     0     0     8     6     0     0     2     7     0     3     2     0     0     0
+     0     0     0     0     4     0     0     0     2     0     9     0     0     0     0     0
+
+
+ans =
+
+    49
+
+
+aver_index =
+
+    0.1559    0.1559    0.1381    0.1091
+
+
+numtr_0 =
+
+    27    27    41    34
+
+
+imin =
+
+     4
+
+
+imin1 =
+
+     4
+
+
+aver_min =
+
+    0.1091
+
+
+imin =
+
+     4
+
+minnumerror2(8,9)=minnumerror2(43)=49
+
+ans =
+
+  Columns 1 through 22 
+
+     0     0     0     0     0     0     0     0     0     0     0     0     0     0     4     3     2     0     0     1     3     6
+
+  Columns 23 through 43 
+
+     8    12     0     0     0     2     2     3     2     0     2     0     0     7     7    13     7    13    15    11    49
+
+
+t1 =
+
+   25.0850
+
+numerror(1)=97 40 57 1
+numerror(2)=94 40 54 1
+numerror(3)=98 41 57 1
+numerror(4)=100 42 58 1
+numerror(5)=105 41 64 1
+numerror(6)=105 42 63 1
+(p, q)=63, 116
+numerror(1)=94 41 53 -1
+numerror(2)=97 41 56 -1
+numerror(3)=99 42 57 -1
+numerror(4)=99 42 57 -1
+numerror(5)=98 41 57 -1
+(p, q)=63, 29
+numerror(1)=101 38 63 -1
+numerror(2)=107 40 67 -1
+numerror(3)=125 43 82 -1
+numerror(4)=135 46 89 -1
+numerror(5)=143 45 98 -1
+n0=3;k0=44;minnumerror1=1010;minnumerror2(k0)=940
+num(8,10)=16
+minnumerror02(8,10)=40  54  94
+
+numtr0 =
+
+    40    54
+
+
+ans =
+
+     0    24     0    16
+    36     0    18     0
+
+
+ans =
+
+    94
+
+
+t1 =
+
+   25.1970
+
+
+n_tr3 =
+
+     1    39    39     1
+    40    75    36     2
+    76    99    24     3
+   100   179    80     4
+   180   263    84     5
+   264   281    18     6
+   282   297    16     7
+   298   472   175     8
+
+numerror11(1 1)=20 12 8 -1
+numerror11(1 2)=19 11 8 -1
+numerror11(1 4)=22 12 10 -1
+numerror11(1 6)=24 12 12 -1
+numerror11(1 7)=24 12 12 -1
+numerror11(6 1)=28 15 13 -1
+numerror11(6 2)=27 13 14 -1
+numerror11(6 4)=28 14 14 -1
+numerror11(6 6)=27 14 13 -1
+numerror11(6 8)=29 16 13 -1
+numerror11(6 10)=29 16 13 -1
+numerror11(6 10)=29 16 13 -1
+(n, minnumerror3)=(17, 19, 10, 9)
+num(8,10,1)=17
+
+numerror11(1 1)=43 11 32 -1
+numerror11(1 2)=42 9 33 -1
+numerror11(1 4)=51 10 41 -1
+numerror11(1 6)=51 7 44 -1
+numerror11(1 6)=51 7 44 -1
+(p, q)=24, 15
+numerror11(6 1)=45 12 33 -1
+numerror11(6 2)=47 12 35 -1
+numerror11(6 4)=44 11 33 -1
+numerror11(6 6)=40 11 29 -1
+numerror11(6 8)=46 12 34 -1
+numerror11(6 10)=45 11 34 -1
+numerror11(6 10)=45 11 34 -1
+(n, minnumerror3)=(16, 40, 11, 29)
+num(8,10,2)=16
+
+numerror11(1 1)=37 32 5 -1
+numerror11(1 2)=38 32 6 -1
+numerror11(1 4)=43 35 8 -1
+numerror11(1 5)=43 36 7 -1
+(p, q)=24, 18
+numerror11(6 1)=40 29 11 -1
+numerror11(6 2)=39 28 11 -1
+numerror11(6 4)=37 26 11 -1
+numerror11(6 6)=39 26 13 -1
+numerror11(6 7)=39 26 13 -1
+(n, minnumerror3)=(12, 36, 25, 11)
+num(8,10,3)=12
+
+numerror11(1 1)=44 4 40 -1
+numerror11(1 2)=51 4 47 -1
+numerror11(1 4)=60 6 54 -1
+numerror11(1 5)=62 6 56 -1
+(p, q)=16, 62
+numerror11(7 1)=52 8 44 -1
+numerror11(7 2)=55 8 47 -1
+numerror11(7 4)=61 7 54 -1
+numerror11(7 5)=61 7 54 -1
+(n, minnumerror3)=(10, 44, 4, 40)
+num(8,10,4)=10
+
+minnumerror3_1(1,2,3,4)=19 40 36 44, sum=139
+minnumerror2(8,10)=minnumerror2(44)=77
+minnumerror4(1, 2, 3, 4)=19 24 18 16, sum=77
+
+numtr0 =
+
+    50    27
+
+
+ans =
+
+    10    24     0    16
+     9     0    18     0
+
+
+ans =
+
+    77
+
+minnumerror2(8,10)=minnumerror2(44)=77
+minnumerror4(1, 2, 3, 4)=19 24 18 16, sum=77
+
+t1 =
+
+   25.5070
+
+
+ w12*w5=-6.93889e-018
+
+n_tr5 =
+
+     1    24    24     1
+    25    47    23     2
+    48    62    15     3
+    63   104    42     4
+   105   149    45     5
+   150   159    10     6
+   160   164     5     7
+   165   232    68     8
+   233   247    15     9
+   248   260    13    10
+   261   269     9    11
+   270   307    38    12
+   308   346    39    13
+   347   354     8    14
+   355   365    11    15
+   366   472   107    16
+
+numerror11(1 1)=12 6 6 -1
+numerror11(1 2)=15 8 7 -1
+numerror11(1 4)=17 9 8 -1
+numerror11(1 5)=18 9 9 -1
+numerror11(5 1)=18 9 9 -1
+numerror11(5 2)=19 9 10 -1
+numerror11(5 4)=20 10 10 -1
+numerror11(5 5)=20 10 10 -1
+(n, minnumerror3)=(10, 12, 6, 6)
+num(8,10,1)=10
+
+numerror11(1 1)=18 3 15 -1
+numerror11(1 2)=21 4 17 -1
+numerror11(1 4)=23 4 19 -1
+numerror11(1 5)=23 4 19 -1
+numerror11(5 1)=25 4 21 -1
+numerror11(5 2)=25 4 21 -1
+numerror11(5 4)=26 4 22 -1
+numerror11(5 6)=28 4 24 -1
+numerror11(5 7)=28 4 24 -1
+(n, minnumerror3)=(12, 18, 3, 15)
+num(8,10,2)=12
+
+numerror11(1 1)=19 15 4 -1
+numerror11(1 2)=22 18 4 -1
+numerror11(1 4)=22 18 4 -1
+numerror11(1 5)=23 18 5 -1
+numerror11(5 1)=23 19 4 -1
+numerror11(5 2)=24 19 5 -1
+numerror11(5 4)=23 18 5 -1
+numerror11(5 6)=22 17 5 -1
+numerror11(5 8)=24 19 5 -1
+numerror11(5 10)=24 19 5 -1
+numerror11(5 11)=24 19 5 -1
+(n, minnumerror3)=(16, 19, 15, 4)
+num(8,10,3)=16
+
+numerror11(1 1)=6 0 6 -1
+numerror11(1 2)=5 0 5 -1
+numerror11(1 4)=5 1 4 -1
+numerror11(1 6)=5 0 5 -1
+numerror11(1 8)=5 0 5 -1
+numerror11(1 10)=8 0 8 -1
+numerror11(1 12)=8 0 8 -1
+numerror11(1 13)=8 0 8 -1
+(p, q)=5, 36
+numerror11(6 1)=4 2 2 -1
+numerror11(6 2)=4 2 2 -1
+numerror11(6 4)=5 2 3 -1
+numerror11(6 6)=5 2 3 -1
+numerror11(6 6)=5 2 3 -1
+(n, minnumerror3)=(19, 4, 2, 2)
+num(8,10,4)=19
+
+numerror11(1 1)=7 4 3 -1
+numerror11(1 2)=7 4 3 -1
+numerror11(1 4)=7 5 2 -1
+numerror11(1 6)=8 5 3 -1
+numerror11(1 8)=10 6 4 -1
+numerror11(1 8)=10 6 4 -1
+numerror11(4 1)=10 6 4 -1
+numerror11(4 2)=10 6 4 -1
+numerror11(4 4)=13 6 7 -1
+numerror11(4 6)=12 6 6 -1
+numerror11(4 6)=12 6 6 -1
+(n, minnumerror3)=(14, 7, 5, 2)
+num(8,10,5)=14
+
+numerror11(1 1)=16 2 14 -1
+numerror11(1 2)=16 2 14 -1
+numerror11(1 4)=18 4 14 -1
+numerror11(1 6)=19 4 15 -1
+numerror11(1 6)=19 4 15 -1
+numerror11(5 1)=19 3 16 -1
+numerror11(5 2)=20 3 17 -1
+numerror11(5 4)=20 3 17 -1
+numerror11(5 6)=21 3 18 -1
+numerror11(5 8)=22 4 18 -1
+numerror11(5 9)=23 3 20 -1
+(n, minnumerror3)=(15, 16, 2, 14)
+num(8,10,6)=15
+
+numerror11(1 1)=7 5 2 -1
+numerror11(1 2)=8 6 2 -1
+numerror11(1 4)=10 8 2 -1
+numerror11(1 5)=11 9 2 -1
+numerror11(5 1)=11 9 2 -1
+numerror11(5 2)=11 9 2 -1
+numerror11(5 4)=10 8 2 -1
+numerror11(5 6)=10 8 2 -1
+numerror11(5 8)=11 8 3 -1
+numerror11(5 10)=10 7 3 -1
+numerror11(5 12)=11 8 3 -1
+numerror11(5 14)=10 7 3 -1
+numerror11(5 16)=10 7 3 -1
+numerror11(5 18)=10 7 3 -1
+numerror11(5 20)=10 7 3 -1
+numerror11(5 22)=10 7 3 -1
+numerror11(5 24)=10 7 3 -1
+numerror11(5 26)=10 7 3 -1
+numerror11(5 28)=10 7 3 -1
+numerror11(5 30)=10 7 3 -1
+numerror11(5 32)=10 7 3 -1
+numerror11(5 34)=10 7 3 -1
+numerror11(5 36)=10 7 3 -1
+numerror11(5 38)=10 7 3 -1
+numerror11(5 40)=10 7 3 -1
+numerror11(5 42)=10 7 3 -1
+numerror11(5 44)=10 7 3 -1
+numerror11(5 46)=10 7 3 -1
+numerror11(5 48)=10 7 3 -1
+numerror11(5 50)=11 8 3 -1
+numerror11(5 52)=10 7 3 -1
+numerror11(5 54)=10 7 3 -1
+numerror11(5 56)=10 7 3 -1
+numerror11(5 58)=10 7 3 -1
+numerror11(5 60)=10 7 3 -1
+numerror11(5 62)=10 7 3 -1
+numerror11(5 64)=10 7 3 -1
+numerror11(5 66)=10 7 3 -1
+numerror11(5 68)=10 7 3 -1
+numerror11(5 70)=10 7 3 -1
+numerror11(5 72)=10 7 3 -1
+numerror11(5 74)=10 7 3 -1
+numerror11(5 76)=10 7 3 -1
+numerror11(5 78)=10 7 3 -1
+numerror11(5 80)=10 7 3 -1
+numerror11(5 82)=10 7 3 -1
+numerror11(5 84)=10 7 3 -1
+numerror11(5 86)=10 7 3 -1
+numerror11(5 88)=10 7 3 -1
+numerror11(5 90)=10 7 3 -1
+numerror11(5 92)=10 7 3 -1
+numerror11(5 94)=10 7 3 -1
+numerror11(5 96)=10 7 3 -1
+numerror11(5 98)=10 7 3 -1
+numerror11(5 100)=10 7 3 -1
+numerror11(5 102)=10 7 3 -1
+numerror11(5 104)=10 7 3 -1
+numerror11(5 106)=10 7 3 -1
+numerror11(5 108)=10 7 3 -1
+numerror11(5 110)=10 7 3 -1
+numerror11(5 112)=10 7 3 -1
+numerror11(5 114)=10 7 3 -1
+numerror11(5 116)=10 7 3 -1
+numerror11(5 118)=10 7 3 -1
+numerror11(5 120)=10 7 3 -1
+numerror11(5 122)=10 7 3 -1
+numerror11(5 124)=10 7 3 -1
+numerror11(5 126)=10 7 3 -1
+numerror11(5 128)=10 7 3 -1
+numerror11(5 130)=10 7 3 -1
+numerror11(5 132)=10 7 3 -1
+numerror11(5 134)=10 7 3 -1
+numerror11(5 136)=10 7 3 -1
+numerror11(5 138)=10 7 3 -1
+numerror11(5 140)=10 7 3 -1
+numerror11(5 142)=10 7 3 -1
+numerror11(5 144)=10 7 3 -1
+numerror11(5 146)=10 7 3 -1
+numerror11(5 148)=10 7 3 -1
+numerror11(5 150)=10 7 3 -1
+numerror11(5 150)=10 7 3 -1
+(n, minnumerror3)=(155, 7, 5, 2)
+num(8,10,7)=155
+
+numerror11(1 1)=40 4 36 -1
+numerror11(1 2)=33 4 29 -1
+numerror11(1 4)=35 4 31 -1
+numerror11(1 6)=42 4 38 -1
+numerror11(1 7)=43 4 39 -1
+(p, q)=11, 35
+numerror11(6 1)=35 5 30 -1
+numerror11(6 2)=38 4 34 -1
+numerror11(6 4)=43 4 39 -1
+numerror11(6 5)=45 4 41 -1
+(n, minnumerror3)=(12, 33, 4, 29)
+num(8,10,8)=12
+
+minnumerror5=12  18  19  4  7  16  7  33, sum=116
+minnumerror6=12  15  10  4  7  9  7  11, sum=75
+
+numtr0 =
+
+    53    22
+
+
+ans =
+
+     6    15     0     2     5     9     5    11
+     6     0    10     2     2     0     2     0
+
+
+ans =
+
+    75
+
+minnumerror6=12  15  10  4  7  9  7  11, sum=75
+
+t1 =
+
+   26.4170
+
+
+n_tr7 =
+
+     1     7     7     1
+     8    15     8     2
+    16    19     4     3
+    20    34    15     4
+    35    47    13     5
+    48    49     2     6
+    50    51     2     7
+    52    69    18     8
+    70    86    17     9
+    87   101    15    10
+   102   112    11    11
+   113   139    27    12
+   140   171    32    13
+   172   179     8    14
+   180   182     3    15
+   183   232    50    16
+   233   243    11    17
+   244   252     9    18
+   253   259     7    19
+   260   283    24    20
+   284   318    35    21
+   319   322     4    22
+   323   329     7    23
+   330   400    71    24
+   401   404     4    25
+   405   408     4    26
+   409   410     2    27
+   411   424    14    28
+   425   428     4    29
+   429   432     4    30
+   433   436     4    31
+   437   472    36    32
+
+numerror11(1 1)=2 1 1 -1
+numerror11(1 2)=2 1 1 -1
+numerror11(1 4)=4 2 2 -1
+numerror11(1 6)=4 2 2 -1
+numerror11(1 8)=4 2 2 -1
+numerror11(1 10)=3 1 2 -1
+numerror11(1 11)=3 2 1 -1
+numerror11(3 1)=2 1 1 -1
+numerror11(3 2)=4 2 2 -1
+numerror11(3 4)=4 2 2 -1
+numerror11(3 6)=4 2 2 -1
+numerror11(3 8)=4 2 2 -1
+numerror11(3 10)=4 2 2 -1
+numerror11(3 12)=3 2 1 -1
+numerror11(3 14)=2 1 1 -1
+numerror11(3 16)=2 1 1 -1
+numerror11(3 18)=1 0 1 -1
+numerror11(3 20)=3 2 1 -1
+numerror11(3 22)=3 1 2 -1
+numerror11(3 22)=3 1 2 -1
+(n, minnumerror3)=(33, 1, 0, 1)
+num(8,10,1)=33
+
+numerror11(1 1)=9 2 7 -1
+numerror11(1 2)=6 2 4 -1
+numerror11(1 4)=7 2 5 -1
+numerror11(1 6)=9 2 7 -1
+numerror11(1 7)=9 2 7 -1
+numerror11(4 1)=11 2 9 -1
+numerror11(4 2)=12 2 10 -1
+numerror11(4 4)=13 2 11 -1
+numerror11(4 5)=13 2 11 -1
+(n, minnumerror3)=(12, 6, 2, 4)
+num(8,10,2)=12
+
+numerror11(1 1)=1 1 0 -1
+numerror11(1 2)=2 2 0 -1
+numerror11(1 4)=3 3 0 -1
+numerror11(1 5)=3 3 0 -1
+numerror11(3 1)=4 4 0 -1
+numerror11(3 2)=3 3 0 -1
+numerror11(3 4)=3 3 0 -1
+numerror11(3 6)=3 3 0 -1
+numerror11(3 8)=3 3 0 -1
+numerror11(3 10)=4 4 0 -1
+numerror11(3 12)=4 4 0 -1
+numerror11(3 13)=4 4 0 -1
+(n, minnumerror3)=(18, 1, 1, 0)
+num(8,10,3)=18
+
+numerror11(1 1)=1 0 1 -1
+numerror11(1 2)=1 0 1 -1
+numerror11(1 4)=1 0 1 -1
+numerror11(1 6)=1 0 1 -1
+numerror11(1 8)=1 0 1 -1
+numerror11(1 10)=1 0 1 -1
+numerror11(1 12)=0 0 0 -1
+numerror11(1 12)=0 0 0 -1
+(n, minnumerror3)=(12, 0, 0, 0)
+num(8,10,4)=12
+
+numerror11(1 1)=13 8 5 -1
+numerror11(1 2)=14 9 5 -1
+numerror11(1 4)=12 7 5 -1
+numerror11(1 6)=14 9 5 -1
+numerror11(1 8)=14 9 5 -1
+numerror11(1 9)=14 9 5 -1
+numerror11(5 1)=14 9 5 -1
+numerror11(5 2)=14 9 5 -1
+numerror11(5 4)=14 9 5 -1
+numerror11(5 6)=14 9 5 -1
+numerror11(5 8)=14 9 5 -1
+numerror11(5 10)=14 9 5 -1
+numerror11(5 12)=14 9 5 -1
+numerror11(5 14)=14 9 5 -1
+numerror11(5 16)=14 9 5 -1
+numerror11(5 18)=14 9 5 -1
+numerror11(5 20)=14 9 5 -1
+numerror11(5 22)=14 9 5 -1
+numerror11(5 24)=14 9 5 -1
+numerror11(5 26)=14 9 5 -1
+numerror11(5 28)=14 9 5 -1
+numerror11(5 30)=14 9 5 -1
+numerror11(5 32)=14 9 5 -1
+numerror11(5 34)=14 9 5 -1
+numerror11(5 36)=14 9 5 -1
+numerror11(5 38)=14 9 5 -1
+numerror11(5 40)=14 9 5 -1
+numerror11(5 42)=14 9 5 -1
+numerror11(5 44)=14 9 5 -1
+numerror11(5 46)=14 9 5 -1
+numerror11(5 48)=14 9 5 -1
+numerror11(5 50)=14 9 5 -1
+numerror11(5 52)=14 9 5 -1
+numerror11(5 54)=14 9 5 -1
+numerror11(5 56)=14 9 5 -1
+numerror11(5 58)=14 9 5 -1
+numerror11(5 60)=14 9 5 -1
+numerror11(5 62)=14 9 5 -1
+numerror11(5 64)=14 9 5 -1
+numerror11(5 66)=14 9 5 -1
+numerror11(5 68)=14 9 5 -1
+numerror11(5 70)=14 9 5 -1
+numerror11(5 72)=14 9 5 -1
+numerror11(5 74)=14 9 5 -1
+numerror11(5 76)=14 9 5 -1
+numerror11(5 78)=14 9 5 -1
+numerror11(5 80)=14 9 5 -1
+numerror11(5 82)=14 9 5 -1
+numerror11(5 84)=14 9 5 -1
+numerror11(5 86)=14 9 5 -1
+numerror11(5 88)=14 9 5 -1
+numerror11(5 90)=14 9 5 -1
+numerror11(5 92)=14 9 5 -1
+numerror11(5 94)=14 9 5 -1
+numerror11(5 96)=14 9 5 -1
+numerror11(5 98)=14 9 5 -1
+numerror11(5 100)=14 9 5 -1
+numerror11(5 102)=14 9 5 -1
+numerror11(5 104)=14 9 5 -1
+numerror11(5 106)=14 9 5 -1
+numerror11(5 108)=14 9 5 -1
+numerror11(5 110)=14 9 5 -1
+numerror11(5 112)=14 9 5 -1
+numerror11(5 114)=14 9 5 -1
+numerror11(5 116)=14 9 5 -1
+numerror11(5 118)=14 9 5 -1
+numerror11(5 120)=14 9 5 -1
+numerror11(5 122)=14 9 5 -1
+numerror11(5 124)=14 9 5 -1
+numerror11(5 126)=14 9 5 -1
+numerror11(5 128)=14 9 5 -1
+numerror11(5 130)=14 9 5 -1
+numerror11(5 132)=14 9 5 -1
+numerror11(5 134)=14 9 5 -1
+numerror11(5 136)=14 9 5 -1
+numerror11(5 138)=14 9 5 -1
+numerror11(5 140)=14 9 5 -1
+numerror11(5 142)=14 9 5 -1
+numerror11(5 144)=14 9 5 -1
+numerror11(5 146)=14 9 5 -1
+numerror11(5 148)=14 9 5 -1
+numerror11(5 150)=14 9 5 -1
+numerror11(5 150)=14 9 5 -1
+(n, minnumerror3)=(159, 12, 7, 5)
+num(8,10,5)=159
+
+numerror11(1 1)=8 3 5 -1
+numerror11(1 2)=9 3 6 -1
+numerror11(1 4)=13 4 9 -1
+numerror11(1 5)=11 4 7 -1
+numerror11(5 1)=14 4 10 -1
+numerror11(5 2)=14 4 10 -1
+numerror11(5 4)=13 4 9 -1
+numerror11(5 6)=14 4 10 -1
+numerror11(5 8)=13 4 9 -1
+numerror11(5 10)=15 5 10 -1
+numerror11(5 12)=15 5 10 -1
+numerror11(5 13)=14 3 11 -1
+(n, minnumerror3)=(18, 8, 3, 5)
+num(8,10,6)=18
+
+numerror11(1 1)=8 7 1 -1
+numerror11(1 2)=9 7 2 -1
+numerror11(1 4)=11 8 3 -1
+numerror11(1 5)=11 8 3 -1
+numerror11(5 1)=12 8 4 -1
+numerror11(5 2)=13 9 4 -1
+numerror11(5 4)=13 9 4 -1
+numerror11(5 5)=13 9 4 -1
+(n, minnumerror3)=(10, 8, 7, 1)
+num(8,10,7)=10
+
+numerror11(1 1)=3 0 3 -1
+numerror11(1 2)=3 0 3 -1
+numerror11(1 4)=3 0 3 -1
+numerror11(1 6)=3 0 3 -1
+numerror11(1 8)=4 0 4 -1
+numerror11(1 10)=5 0 5 -1
+numerror11(1 11)=6 0 6 -1
+numerror11(5 1)=6 0 6 -1
+numerror11(5 2)=6 0 6 -1
+numerror11(5 4)=6 0 6 -1
+numerror11(5 6)=6 0 6 -1
+numerror11(5 8)=6 0 6 -1
+numerror11(5 10)=5 0 5 -1
+numerror11(5 12)=6 0 6 -1
+numerror11(5 14)=6 0 6 -1
+numerror11(5 14)=6 0 6 -1
+(n, minnumerror3)=(25, 3, 0, 3)
+num(8,10,8)=25
+
+numerror11(1 1)=5 3 2 -1
+numerror11(1 2)=4 3 1 -1
+numerror11(1 4)=6 3 3 -1
+numerror11(1 6)=6 3 3 -1
+numerror11(1 6)=6 3 3 -1
+numerror11(4 1)=6 3 3 -1
+numerror11(4 2)=6 3 3 -1
+numerror11(4 4)=6 3 3 -1
+numerror11(4 6)=6 3 3 -1
+numerror11(4 8)=6 3 3 -1
+numerror11(4 10)=6 3 3 -1
+numerror11(4 12)=6 3 3 -1
+numerror11(4 14)=6 3 3 -1
+numerror11(4 16)=7 4 3 -1
+numerror11(4 18)=7 4 3 -1
+numerror11(4 18)=7 4 3 -1
+(n, minnumerror3)=(24, 4, 3, 1)
+num(8,10,9)=24
+
+numerror11(1 1)=10 3 7 -1
+numerror11(1 2)=10 3 7 -1
+numerror11(1 4)=12 3 9 -1
+numerror11(1 6)=12 3 9 -1
+numerror11(1 6)=12 3 9 -1
+numerror11(4 1)=12 3 9 -1
+numerror11(4 2)=12 3 9 -1
+numerror11(4 4)=12 3 9 -1
+numerror11(4 6)=12 3 9 -1
+numerror11(4 8)=12 3 9 -1
+numerror11(4 10)=12 3 9 -1
+numerror11(4 12)=12 3 9 -1
+numerror11(4 14)=12 3 9 -1
+numerror11(4 16)=12 3 9 -1
+numerror11(4 18)=12 3 9 -1
+numerror11(4 20)=12 3 9 -1
+numerror11(4 22)=12 3 9 -1
+numerror11(4 24)=12 3 9 -1
+numerror11(4 26)=11 3 8 -1
+numerror11(4 28)=13 3 10 -1
+numerror11(4 30)=12 3 9 -1
+numerror11(4 30)=12 3 9 -1
+(n, minnumerror3)=(36, 10, 3, 7)
+num(8,10,10)=36
+
+numerror11(1 1)=12 11 1 -1
+numerror11(1 2)=12 11 1 -1
+numerror11(1 4)=10 8 2 -1
+numerror11(1 6)=10 8 2 -1
+numerror11(1 8)=11 9 2 -1
+numerror11(1 10)=11 9 2 -1
+numerror11(1 11)=12 10 2 -1
+numerror11(5 1)=12 10 2 -1
+numerror11(5 2)=12 10 2 -1
+numerror11(5 4)=12 10 2 -1
+numerror11(5 6)=12 10 2 -1
+numerror11(5 8)=12 10 2 -1
+numerror11(5 10)=12 10 2 -1
+numerror11(5 12)=11 9 2 -1
+numerror11(5 14)=11 9 2 -1
+numerror11(5 16)=11 9 2 -1
+numerror11(5 18)=11 9 2 -1
+numerror11(5 20)=11 9 2 -1
+numerror11(5 22)=11 9 2 -1
+numerror11(5 24)=11 9 2 -1
+numerror11(5 26)=11 9 2 -1
+numerror11(5 28)=11 9 2 -1
+numerror11(5 30)=11 9 2 -1
+numerror11(5 32)=11 9 2 -1
+numerror11(5 34)=11 9 2 -1
+numerror11(5 36)=11 9 2 -1
+numerror11(5 38)=11 9 2 -1
+numerror11(5 40)=11 9 2 -1
+numerror11(5 42)=11 9 2 -1
+numerror11(5 44)=11 9 2 -1
+numerror11(5 46)=11 9 2 -1
+numerror11(5 48)=11 9 2 -1
+numerror11(5 50)=11 9 2 -1
+numerror11(5 52)=11 9 2 -1
+numerror11(5 54)=11 9 2 -1
+numerror11(5 56)=11 9 2 -1
+numerror11(5 58)=11 9 2 -1
+numerror11(5 60)=11 9 2 -1
+numerror11(5 62)=11 9 2 -1
+numerror11(5 64)=11 9 2 -1
+numerror11(5 66)=11 9 2 -1
+numerror11(5 68)=11 9 2 -1
+numerror11(5 70)=11 9 2 -1
+numerror11(5 72)=11 9 2 -1
+numerror11(5 74)=11 9 2 -1
+numerror11(5 76)=11 9 2 -1
+numerror11(5 78)=11 9 2 -1
+numerror11(5 80)=11 9 2 -1
+numerror11(5 82)=11 9 2 -1
+numerror11(5 84)=11 9 2 -1
+numerror11(5 86)=11 9 2 -1
+numerror11(5 88)=11 9 2 -1
+numerror11(5 90)=11 9 2 -1
+numerror11(5 92)=11 9 2 -1
+numerror11(5 94)=11 9 2 -1
+numerror11(5 96)=11 9 2 -1
+numerror11(5 98)=11 9 2 -1
+numerror11(5 100)=11 9 2 -1
+numerror11(5 102)=11 9 2 -1
+numerror11(5 104)=11 9 2 -1
+numerror11(5 106)=11 9 2 -1
+numerror11(5 108)=11 9 2 -1
+numerror11(5 110)=11 9 2 -1
+numerror11(5 112)=11 9 2 -1
+numerror11(5 114)=11 9 2 -1
+numerror11(5 116)=11 9 2 -1
+numerror11(5 118)=11 9 2 -1
+numerror11(5 120)=11 9 2 -1
+numerror11(5 122)=11 9 2 -1
+numerror11(5 124)=11 9 2 -1
+numerror11(5 126)=11 9 2 -1
+numerror11(5 128)=11 9 2 -1
+numerror11(5 130)=11 9 2 -1
+numerror11(5 132)=11 9 2 -1
+numerror11(5 134)=11 9 2 -1
+numerror11(5 136)=11 9 2 -1
+numerror11(5 138)=11 9 2 -1
+numerror11(5 140)=11 9 2 -1
+numerror11(5 142)=11 9 2 -1
+numerror11(5 144)=11 9 2 -1
+numerror11(5 146)=11 9 2 -1
+numerror11(5 148)=11 9 2 -1
+numerror11(5 150)=11 9 2 -1
+numerror11(5 150)=11 9 2 -1
+(n, minnumerror3)=(161, 10, 8, 2)
+num(8,10,11)=161
+
+numerror11(1 1)=24 2 22 -1
+numerror11(1 2)=24 2 22 -1
+numerror11(1 4)=28 2 26 -1
+numerror11(1 6)=31 2 29 -1
+numerror11(1 6)=31 2 29 -1
+(p, q)=7, 24
+numerror11(6 1)=21 3 18 -1
+numerror11(6 2)=29 3 26 -1
+numerror11(6 4)=30 4 26 -1
+numerror11(6 5)=31 4 27 -1
+(n, minnumerror3)=(11, 21, 3, 18)
+num(8,10,12)=11
+
+numerror11(1 1)=1 1 0 -1
+numerror11(1 2)=0 0 0 -1
+numerror11(1 2)=0 0 0 -1
+(n, minnumerror3)=(2, 0, 0, 0)
+num(8,10,13)=2
+
+numerror11(1 1)=3 0 3 -1
+numerror11(1 2)=3 0 3 -1
+numerror11(1 4)=2 0 2 -1
+numerror11(1 6)=3 0 3 -1
+numerror11(1 8)=3 0 3 -1
+numerror11(1 9)=3 0 3 -1
+numerror11(4 1)=3 0 3 -1
+numerror11(4 2)=3 0 3 -1
+numerror11(4 4)=3 0 3 -1
+numerror11(4 6)=4 0 4 -1
+numerror11(4 8)=4 0 4 -1
+numerror11(4 9)=5 0 5 -1
+(n, minnumerror3)=(18, 2, 0, 2)
+num(8,10,14)=18
+
+numerror11(1 1)=1 1 0 -1
+numerror11(1 2)=0 0 0 -1
+numerror11(1 2)=0 0 0 -1
+(n, minnumerror3)=(2, 0, 0, 0)
+num(8,10,15)=2
+
+numerror11(1 1)=8 1 7 -1
+numerror11(1 2)=9 1 8 -1
+numerror11(1 4)=17 2 15 -1
+numerror11(1 5)=13 2 11 -1
+numerror11(5 1)=13 2 11 -1
+numerror11(5 2)=13 2 11 -1
+numerror11(5 4)=14 2 12 -1
+numerror11(5 6)=15 2 13 -1
+numerror11(5 7)=21 2 19 -1
+(n, minnumerror3)=(12, 8, 1, 7)
+num(8,10,16)=12
+
+
+numtr0 =
+
+    38    56
+
+
+ans =
+
+     0     2     1     0     7     3     7     0     3     3     8     3     0     0     0     1
+     1     4     0     0     5     5     1     3     1     7     2    18     0     2     0     7
+
+
+ans =
+
+    94
+
+minnumerror7=1, 6, 1, 0, 12, 8, 8, 3, 4, 10, 10, 21, 0, 2, 0, 8, sum=94
+minnumerror8=1, 4, 1, 0, 12, 8, 8, 3, 4, 7, 4, 7, 0, 2, 0, 4
+sum(minnumerror8)=65
+
+numtr0 =
+
+    42    24
+
+
+ans =
+
+     0     4     1     0     7     3     0     1     3     7     3     7     0     2     0     4
+     1     0     0     0     5     5     8     2     1     0     2     0     0     0     0     0
+
+
+ans =
+
+    66
+
+
+aver_index =
+
+    0.1992    0.1631    0.1589    0.1398
+
+
+numtr_0 =
+
+    40    50    53    42
+
+
+imin =
+
+     4
+
+
+imin1 =
+
+     4
+
+
+aver_min =
+
+    0.1398
+
+
+imin =
+
+     4
+
+minnumerror2(8,10)=minnumerror2(44)=66
+
+ans =
+
+  Columns 1 through 22 
+
+     0     0     0     0     0     0     0     0     0     0     0     0     0     0     4     3     2     0     0     1     3     6
+
+  Columns 23 through 44 
+
+     8    12     0     0     0     2     2     3     2     0     2     0     0     7     7    13     7    13    15    11    49    66
+
+
+t1 =
+
+   28.3160
+
+numerror(1)=201 128 73 1
+numerror(2)=199 129 70 1
+numerror(3)=198 130 68 1
+numerror(4)=199 131 68 1
+numerror(5)=198 131 67 1
+numerror(6)=200 132 68 1
+numerror(7)=201 133 68 1
+numerror(8)=205 133 72 1
+numerror(9)=204 132 72 1
+(p, q)=84, 69
+numerror(1)=203 126 77 -1
+numerror(2)=204 127 77 -1
+numerror(3)=208 129 79 -1
+numerror(4)=211 131 80 -1
+numerror(5)=211 131 80 -1
+(p, q)=6, 3
+numerror(1)=205 128 77 -1
+numerror(2)=231 115 116 -1
+numerror(3)=260 125 135 -1
+numerror(4)=272 134 138 -1
+numerror(5)=281 140 141 -1
+n0=3;k0=45;minnumerror1=2050;minnumerror2(k0)=1980
+num(9,10)=19
+minnumerror02(9,10)=131  67  198
+
+numtr0 =
+
+   131    67
+
+
+ans =
+
+     0    39     0    92
+    23     0    44     0
+
+
+ans =
+
+   198
+
+
+t1 =
+
+   28.4470
+
+
+n_tr3 =
+
+     1    45    45     1
+    46    68    23     2
+    69   107    39     3
+   108   153    46     4
+   154   263   110     5
+   264   307    44     6
+   308   399    92     7
+   400   595   196     8
+
+numerror11(1 1)=25 14 11 -1
+numerror11(1 2)=26 15 11 -1
+numerror11(1 4)=30 18 12 -1
+numerror11(1 5)=31 19 12 -1
+numerror11(6 1)=30 18 12 -1
+numerror11(6 2)=30 18 12 -1
+numerror11(6 4)=31 19 12 -1
+numerror11(6 6)=31 19 12 -1
+numerror11(6 6)=31 19 12 -1
+(n, minnumerror3)=(11, 25, 14, 11)
+num(9,10,1)=11
+
+numerror11(1 1)=31 16 15 -1
+numerror11(1 2)=33 17 16 -1
+numerror11(1 4)=35 18 17 -1
+numerror11(1 5)=36 18 18 -1
+numerror11(6 1)=35 18 17 -1
+numerror11(6 2)=40 21 19 -1
+numerror11(6 4)=40 21 19 -1
+numerror11(6 5)=40 21 19 -1
+(n, minnumerror3)=(10, 31, 16, 15)
+num(9,10,2)=10
+
+numerror11(1 1)=58 44 14 -1
+numerror11(1 2)=59 42 17 -1
+numerror11(1 4)=61 45 16 -1
+numerror11(1 5)=65 48 17 -1
+(p, q)=17, 44
+numerror11(7 1)=70 47 23 -1
+numerror11(7 2)=65 45 20 -1
+numerror11(7 4)=65 45 20 -1
+numerror11(7 6)=68 48 20 -1
+numerror11(7 8)=67 47 20 -1
+numerror11(7 8)=67 47 20 -1
+(n, minnumerror3)=(13, 58, 44, 14)
+num(9,10,3)=13
+
+numerror11(1 1)=118 37 81 -1
+numerror11(1 2)=116 36 80 -1
+numerror11(1 4)=121 39 82 -1
+numerror11(1 6)=123 36 87 -1
+numerror11(1 6)=123 36 87 -1
+(p, q)=29, 66
+numerror11(2 1)=138 34 104 -1
+numerror11(2 2)=135 34 101 -1
+numerror11(2 4)=136 34 102 -1
+numerror11(2 6)=131 37 94 -1
+numerror11(2 8)=129 38 91 -1
+numerror11(2 10)=125 39 86 -1
+numerror11(2 12)=124 40 84 -1
+numerror11(2 14)=121 41 80 -1
+numerror11(2 16)=122 40 82 -1
+numerror11(2 18)=122 41 81 -1
+numerror11(2 20)=121 41 80 -1
+numerror11(2 22)=119 39 80 -1
+numerror11(2 24)=121 42 79 -1
+numerror11(2 26)=122 39 83 -1
+numerror11(2 26)=122 39 83 -1
+(n, minnumerror3)=(32, 116, 36, 80)
+num(9,10,4)=32
+
+minnumerror3_1(1,2,3,4)=25 31 58 116, sum=230
+minnumerror2(9,10)=minnumerror2(45)=190
+minnumerror4(1, 2, 3, 4)=23 31 44 92, sum=190
+
+numtr0 =
+
+   108    82
+
+
+ans =
+
+     0    16     0    92
+    23    15    44     0
+
+
+ans =
+
+   190
+
+minnumerror2(9,10)=minnumerror2(45)=190
+minnumerror4(1, 2, 3, 4)=23 31 44 92, sum=190
+
+t1 =
+
+   28.7820
+
+
+ w12*w5=0
+
+n_tr5 =
+
+     1    28    28     1
+    29    42    14     2
+    43    62    20     3
+    63    90    28     4
+    91   139    49     5
+   140   164    25     6
+   165   206    42     7
+   207   295    89     8
+   296   312    17     9
+   313   321     9    10
+   322   340    19    11
+   341   358    18    12
+   359   419    61    13
+   420   438    19    14
+   439   488    50    15
+   489   595   107    16
+
+numerror11(1 1)=13 8 5 -1
+numerror11(1 2)=14 9 5 -1
+numerror11(1 4)=13 8 5 -1
+numerror11(1 6)=18 11 7 -1
+numerror11(1 8)=18 10 8 -1
+numerror11(1 8)=18 10 8 -1
+numerror11(5 1)=18 10 8 -1
+numerror11(5 2)=19 11 8 -1
+numerror11(5 4)=19 11 8 -1
+numerror11(5 5)=19 11 8 -1
+(n, minnumerror3)=(13, 13, 8, 5)
+num(9,10,1)=13
+
+numerror11(1 1)=18 9 9 -1
+numerror11(1 2)=18 9 9 -1
+numerror11(1 4)=20 9 11 -1
+numerror11(1 6)=21 9 12 -1
+numerror11(1 8)=19 9 10 -1
+numerror11(1 9)=19 9 10 -1
+numerror11(5 1)=19 9 10 -1
+numerror11(5 2)=20 9 11 -1
+numerror11(5 4)=20 9 11 -1
+numerror11(5 5)=21 9 12 -1
+(n, minnumerror3)=(14, 18, 9, 9)
+num(9,10,2)=14
+
+numerror11(1 1)=29 19 10 -1
+numerror11(1 2)=30 22 8 -1
+numerror11(1 4)=34 22 12 -1
+numerror11(1 5)=34 22 12 -1
+numerror11(6 1)=34 22 12 -1
+numerror11(6 2)=33 22 11 -1
+numerror11(6 4)=35 22 13 -1
+numerror11(6 6)=35 22 13 -1
+numerror11(6 6)=35 22 13 -1
+(n, minnumerror3)=(11, 29, 19, 10)
+num(9,10,3)=11
+
+numerror11(1 1)=52 17 35 -1
+numerror11(1 2)=52 16 36 -1
+numerror11(1 4)=57 18 39 -1
+numerror11(1 6)=61 18 43 -1
+numerror11(1 6)=61 18 43 -1
+(p, q)=42, 29
+numerror11(7 1)=53 22 31 -1
+numerror11(7 2)=55 22 33 -1
+numerror11(7 4)=56 23 33 -1
+numerror11(7 5)=56 23 33 -1
+(n, minnumerror3)=(11, 52, 16, 36)
+num(9,10,4)=11
+
+numerror11(1 1)=9 5 4 -1
+numerror11(1 2)=11 7 4 -1
+numerror11(1 4)=11 7 4 -1
+numerror11(1 5)=11 7 4 -1
+numerror11(4 1)=12 7 5 -1
+numerror11(4 2)=13 8 5 -1
+numerror11(4 4)=13 8 5 -1
+numerror11(4 5)=13 8 5 -1
+(n, minnumerror3)=(10, 9, 5, 4)
+num(9,10,5)=10
+
+numerror11(1 1)=9 5 4 -1
+numerror11(1 2)=10 6 4 -1
+numerror11(1 4)=11 7 4 -1
+numerror11(1 5)=11 7 4 -1
+numerror11(5 1)=11 7 4 -1
+numerror11(5 2)=12 7 5 -1
+numerror11(5 4)=12 7 5 -1
+numerror11(5 5)=12 7 5 -1
+(n, minnumerror3)=(10, 9, 5, 4)
+num(9,10,6)=10
+
+numerror11(1 1)=30 25 5 -1
+numerror11(1 2)=31 25 6 -1
+numerror11(1 4)=27 22 5 -1
+numerror11(1 6)=31 26 5 -1
+numerror11(1 8)=33 28 5 -1
+numerror11(1 8)=33 28 5 -1
+numerror11(6 1)=35 30 5 -1
+numerror11(6 2)=37 32 5 -1
+numerror11(6 4)=37 32 5 -1
+numerror11(6 5)=39 34 5 -1
+(n, minnumerror3)=(13, 27, 22, 5)
+num(9,10,7)=13
+
+numerror11(1 1)=62 18 44 -1
+numerror11(1 2)=61 19 42 -1
+numerror11(1 4)=60 19 41 -1
+numerror11(1 6)=63 20 43 -1
+numerror11(1 8)=65 20 45 -1
+numerror11(1 8)=65 20 45 -1
+(p, q)=50, 31
+numerror11(7 1)=57 22 35 -1
+numerror11(7 2)=60 26 34 -1
+numerror11(7 4)=65 30 35 -1
+numerror11(7 5)=64 30 34 -1
+(n, minnumerror3)=(13, 57, 22, 35)
+num(9,10,8)=13
+
+minnumerror5=13  18  29  52  9  9  27  57, sum=214
+minnumerror6=13  18  25  42  9  9  19  50, sum=185
+
+numtr0 =
+
+   114    71
+
+
+ans =
+
+     8     9     0    42     0     5     0    50
+     5     9    25     0     9     4    19     0
+
+
+ans =
+
+   185
+
+minnumerror6=13  18  25  42  9  9  19  50, sum=185
+
+t1 =
+
+   29.2850
+
+
+n_tr7 =
+
+     1    11    11     1
+    12    15     4     2
+    16    23     8     3
+    24    28     5     4
+    29    51    23     5
+    52    60     9     6
+    61    74    14     7
+    75    93    19     8
+    94   110    17     9
+   111   120    10    10
+   121   132    12    11
+   133   155    23    12
+   156   181    26    13
+   182   197    16    14
+   198   225    28    15
+   226   295    70    16
+   296   307    12    17
+   308   313     6    18
+   314   326    13    19
+   327   335     9    20
+   336   381    46    21
+   382   396    15    22
+   397   431    35    23
+   432   510    79    24
+   511   515     5    25
+   516   518     3    26
+   519   524     6    27
+   525   533     9    28
+   534   548    15    29
+   549   552     4    30
+   553   567    15    31
+   568   595    28    32
+
+numerror11(1 1)=2 2 0 -1
+numerror11(1 2)=2 2 0 -1
+numerror11(1 4)=2 2 0 -1
+numerror11(1 6)=2 2 0 -1
+numerror11(1 8)=1 1 0 -1
+numerror11(1 10)=2 2 0 -1
+numerror11(1 12)=1 1 0 -1
+numerror11(1 14)=1 1 0 -1
+numerror11(1 16)=1 1 0 -1
+numerror11(1 17)=0 0 0 -1
+(n, minnumerror3)=(17, 0, 0, 0)
+num(9,10,1)=17
+
+numerror11(1 1)=2 1 1 -1
+numerror11(1 2)=2 1 1 -1
+numerror11(1 4)=1 1 0 -1
+numerror11(1 6)=1 1 0 -1
+numerror11(1 8)=1 1 0 -1
+numerror11(1 10)=1 1 0 -1
+numerror11(1 12)=1 1 0 -1
+numerror11(1 14)=1 1 0 -1
+numerror11(1 16)=1 1 0 -1
+numerror11(1 18)=1 1 0 -1
+numerror11(1 20)=2 2 0 -1
+numerror11(1 22)=1 1 0 -1
+numerror11(1 24)=1 1 0 -1
+numerror11(1 26)=1 1 0 -1
+numerror11(1 28)=1 1 0 -1
+numerror11(1 30)=2 2 0 -1
+numerror11(1 32)=1 1 0 -1
+numerror11(1 34)=1 1 0 -1
+numerror11(1 36)=1 1 0 -1
+numerror11(1 38)=1 1 0 -1
+numerror11(1 40)=1 1 0 -1
+numerror11(1 42)=1 1 0 -1
+numerror11(1 44)=1 1 0 -1
+numerror11(1 46)=1 1 0 -1
+numerror11(1 48)=1 1 0 -1
+numerror11(1 50)=1 1 0 -1
+numerror11(1 52)=1 1 0 -1
+numerror11(1 54)=1 1 0 -1
+numerror11(1 56)=1 1 0 -1
+numerror11(1 58)=1 1 0 -1
+numerror11(1 60)=1 1 0 -1
+numerror11(1 62)=1 1 0 -1
+numerror11(1 64)=1 1 0 -1
+numerror11(1 66)=1 1 0 -1
+numerror11(1 68)=1 1 0 -1
+numerror11(1 70)=1 1 0 -1
+numerror11(1 72)=1 1 0 -1
+numerror11(1 74)=1 1 0 -1
+numerror11(1 76)=1 1 0 -1
+numerror11(1 78)=1 1 0 -1
+numerror11(1 80)=1 1 0 -1
+numerror11(1 82)=1 1 0 -1
+numerror11(1 84)=2 2 0 -1
+numerror11(1 86)=1 1 0 -1
+numerror11(1 88)=1 1 0 -1
+numerror11(1 90)=1 1 0 -1
+numerror11(1 92)=2 2 0 -1
+numerror11(1 94)=1 1 0 -1
+numerror11(1 96)=1 1 0 -1
+numerror11(1 98)=1 1 0 -1
+numerror11(1 100)=2 2 0 -1
+numerror11(1 102)=1 1 0 -1
+numerror11(1 104)=1 1 0 -1
+numerror11(1 106)=1 1 0 -1
+numerror11(1 108)=1 1 0 -1
+numerror11(1 110)=1 1 0 -1
+numerror11(1 112)=1 1 0 -1
+numerror11(1 114)=1 1 0 -1
+numerror11(1 116)=2 1 1 -1
+numerror11(1 118)=1 1 0 -1
+numerror11(1 120)=1 1 0 -1
+numerror11(1 122)=1 1 0 -1
+numerror11(1 124)=2 2 0 -1
+numerror11(1 126)=1 1 0 -1
+numerror11(1 128)=1 1 0 -1
+numerror11(1 130)=2 1 1 -1
+numerror11(1 132)=1 1 0 -1
+numerror11(1 134)=1 1 0 -1
+numerror11(1 136)=1 1 0 -1
+numerror11(1 138)=2 1 1 -1
+numerror11(1 140)=1 1 0 -1
+numerror11(1 142)=1 1 0 -1
+numerror11(1 144)=1 1 0 -1
+numerror11(1 146)=2 1 1 -1
+numerror11(1 148)=1 1 0 -1
+numerror11(1 150)=1 1 0 -1
+numerror11(1 150)=1 1 0 -1
+numerror11(3 1)=1 1 0 -1
+numerror11(3 2)=1 1 0 -1
+numerror11(3 4)=2 2 0 -1
+numerror11(3 6)=1 1 0 -1
+numerror11(3 8)=1 1 0 -1
+numerror11(3 10)=2 1 1 -1
+numerror11(3 12)=1 1 0 -1
+numerror11(3 14)=1 1 0 -1
+numerror11(3 16)=1 1 0 -1
+numerror11(3 18)=1 1 0 -1
+numerror11(3 20)=1 1 0 -1
+numerror11(3 22)=1 1 0 -1
+numerror11(3 24)=1 1 0 -1
+numerror11(3 26)=2 1 1 -1
+numerror11(3 28)=1 1 0 -1
+numerror11(3 30)=1 1 0 -1
+numerror11(3 32)=2 1 1 -1
+numerror11(3 34)=1 1 0 -1
+numerror11(3 36)=1 1 0 -1
+numerror11(3 38)=1 1 0 -1
+numerror11(3 40)=1 1 0 -1
+numerror11(3 42)=2 2 0 -1
+numerror11(3 44)=1 1 0 -1
+numerror11(3 46)=2 1 1 -1
+numerror11(3 48)=1 1 0 -1
+numerror11(3 50)=1 1 0 -1
+numerror11(3 52)=1 1 0 -1
+numerror11(3 54)=1 1 0 -1
+numerror11(3 56)=2 2 0 -1
+numerror11(3 58)=1 1 0 -1
+numerror11(3 60)=1 1 0 -1
+numerror11(3 62)=2 2 0 -1
+numerror11(3 64)=1 1 0 -1
+numerror11(3 66)=1 1 0 -1
+numerror11(3 68)=2 1 1 -1
+numerror11(3 70)=1 1 0 -1
+numerror11(3 72)=1 1 0 -1
+numerror11(3 74)=1 1 0 -1
+numerror11(3 76)=1 1 0 -1
+numerror11(3 78)=1 1 0 -1
+numerror11(3 80)=1 1 0 -1
+numerror11(3 82)=1 1 0 -1
+numerror11(3 84)=2 1 1 -1
+numerror11(3 86)=1 1 0 -1
+numerror11(3 88)=1 1 0 -1
+numerror11(3 90)=2 1 1 -1
+numerror11(3 92)=1 1 0 -1
+numerror11(3 94)=1 1 0 -1
+numerror11(3 96)=1 1 0 -1
+numerror11(3 98)=2 2 0 -1
+numerror11(3 100)=1 1 0 -1
+numerror11(3 102)=1 1 0 -1
+numerror11(3 104)=2 1 1 -1
+numerror11(3 106)=1 1 0 -1
+numerror11(3 108)=1 1 0 -1
+numerror11(3 110)=1 1 0 -1
+numerror11(3 112)=2 1 1 -1
+numerror11(3 114)=1 1 0 -1
+numerror11(3 116)=1 1 0 -1
+numerror11(3 118)=2 1 1 -1
+numerror11(3 120)=1 1 0 -1
+numerror11(3 122)=1 1 0 -1
+numerror11(3 124)=1 1 0 -1
+numerror11(3 126)=2 2 0 -1
+numerror11(3 128)=1 1 0 -1
+numerror11(3 130)=1 1 0 -1
+numerror11(3 132)=2 1 1 -1
+numerror11(3 134)=1 1 0 -1
+numerror11(3 136)=1 1 0 -1
+numerror11(3 138)=1 1 0 -1
+numerror11(3 140)=2 1 1 -1
+numerror11(3 142)=1 1 0 -1
+numerror11(3 144)=1 1 0 -1
+numerror11(3 146)=2 1 1 -1
+numerror11(3 148)=1 1 0 -1
+numerror11(3 150)=1 1 0 -1
+numerror11(3 150)=1 1 0 -1
+(n, minnumerror3)=(300, 1, 1, 0)
+num(9,10,2)=300
+
+numerror11(1 1)=11 8 3 -1
+numerror11(1 2)=13 10 3 -1
+numerror11(1 4)=14 11 3 -1
+numerror11(1 5)=15 12 3 -1
+numerror11(5 1)=18 15 3 -1
+numerror11(5 2)=19 16 3 -1
+numerror11(5 4)=21 18 3 -1
+numerror11(5 5)=20 18 2 -1
+(n, minnumerror3)=(10, 11, 8, 3)
+num(9,10,3)=10
+
+numerror11(1 1)=6 2 4 -1
+numerror11(1 2)=7 2 5 -1
+numerror11(1 4)=11 4 7 -1
+numerror11(1 5)=11 4 7 -1
+numerror11(5 1)=13 4 9 -1
+numerror11(5 2)=13 4 9 -1
+numerror11(5 4)=14 4 10 -1
+numerror11(5 6)=14 3 11 -1
+numerror11(5 7)=14 3 11 -1
+(n, minnumerror3)=(12, 6, 2, 4)
+num(9,10,4)=12
+
+numerror11(1 1)=10 7 3 -1
+numerror11(1 2)=10 6 4 -1
+numerror11(1 4)=10 5 5 -1
+numerror11(1 6)=10 6 4 -1
+numerror11(1 8)=12 7 5 -1
+numerror11(1 10)=10 5 5 -1
+numerror11(1 12)=10 5 5 -1
+numerror11(1 14)=12 6 6 -1
+numerror11(1 15)=10 4 6 -1
+numerror11(4 1)=11 5 6 -1
+numerror11(4 2)=11 5 6 -1
+numerror11(4 4)=12 6 6 -1
+numerror11(4 6)=11 5 6 -1
+numerror11(4 8)=10 4 6 -1
+numerror11(4 10)=10 4 6 -1
+numerror11(4 12)=10 4 6 -1
+numerror11(4 14)=10 4 6 -1
+numerror11(4 16)=10 4 6 -1
+numerror11(4 18)=10 4 6 -1
+numerror11(4 20)=10 4 6 -1
+numerror11(4 22)=10 4 6 -1
+numerror11(4 24)=10 4 6 -1
+numerror11(4 26)=10 4 6 -1
+numerror11(4 28)=10 4 6 -1
+numerror11(4 30)=10 4 6 -1
+numerror11(4 32)=10 4 6 -1
+numerror11(4 34)=10 4 6 -1
+numerror11(4 36)=10 4 6 -1
+numerror11(4 38)=10 4 6 -1
+numerror11(4 40)=10 4 6 -1
+numerror11(4 42)=10 4 6 -1
+numerror11(4 44)=10 4 6 -1
+numerror11(4 46)=10 4 6 -1
+numerror11(4 48)=10 4 6 -1
+numerror11(4 50)=10 4 6 -1
+numerror11(4 52)=10 4 6 -1
+numerror11(4 54)=10 4 6 -1
+numerror11(4 56)=10 4 6 -1
+numerror11(4 58)=10 4 6 -1
+numerror11(4 60)=10 4 6 -1
+numerror11(4 62)=10 4 6 -1
+numerror11(4 64)=10 4 6 -1
+numerror11(4 66)=10 4 6 -1
+numerror11(4 68)=10 4 6 -1
+numerror11(4 70)=10 4 6 -1
+numerror11(4 72)=10 4 6 -1
+numerror11(4 74)=10 4 6 -1
+numerror11(4 76)=10 4 6 -1
+numerror11(4 78)=10 4 6 -1
+numerror11(4 80)=10 4 6 -1
+numerror11(4 82)=10 4 6 -1
+numerror11(4 84)=10 4 6 -1
+numerror11(4 86)=10 4 6 -1
+numerror11(4 88)=10 4 6 -1
+numerror11(4 90)=10 4 6 -1
+numerror11(4 92)=10 4 6 -1
+numerror11(4 94)=10 4 6 -1
+numerror11(4 96)=10 4 6 -1
+numerror11(4 98)=10 4 6 -1
+numerror11(4 100)=10 4 6 -1
+numerror11(4 102)=10 4 6 -1
+numerror11(4 104)=10 4 6 -1
+numerror11(4 106)=10 4 6 -1
+numerror11(4 108)=10 4 6 -1
+numerror11(4 110)=10 4 6 -1
+numerror11(4 112)=10 4 6 -1
+numerror11(4 114)=10 4 6 -1
+numerror11(4 116)=10 4 6 -1
+numerror11(4 118)=10 4 6 -1
+numerror11(4 120)=10 4 6 -1
+numerror11(4 122)=10 4 6 -1
+numerror11(4 124)=10 4 6 -1
+numerror11(4 126)=10 4 6 -1
+numerror11(4 128)=10 4 6 -1
+numerror11(4 130)=10 4 6 -1
+numerror11(4 132)=10 4 6 -1
+numerror11(4 134)=10 4 6 -1
+numerror11(4 136)=10 4 6 -1
+numerror11(4 138)=10 4 6 -1
+numerror11(4 140)=10 4 6 -1
+numerror11(4 142)=10 4 6 -1
+numerror11(4 144)=10 4 6 -1
+numerror11(4 146)=10 4 6 -1
+numerror11(4 148)=10 4 6 -1
+numerror11(4 150)=10 4 6 -1
+numerror11(4 150)=10 4 6 -1
+(n, minnumerror3)=(165, 9, 4, 5)
+num(9,10,5)=165
+
+numerror11(1 1)=12 6 6 -1
+numerror11(1 2)=12 5 7 -1
+numerror11(1 4)=16 6 10 -1
+numerror11(1 6)=16 6 10 -1
+numerror11(1 7)=17 6 11 -1
+numerror11(5 1)=17 6 11 -1
+numerror11(5 2)=17 6 11 -1
+numerror11(5 4)=17 6 11 -1
+numerror11(5 6)=17 6 11 -1
+numerror11(5 8)=17 6 11 -1
+numerror11(5 10)=17 6 11 -1
+numerror11(5 12)=17 6 11 -1
+numerror11(5 14)=17 6 11 -1
+numerror11(5 16)=17 6 11 -1
+numerror11(5 18)=17 6 11 -1
+numerror11(5 20)=17 6 11 -1
+numerror11(5 22)=17 6 11 -1
+numerror11(5 24)=17 6 11 -1
+numerror11(5 26)=17 6 11 -1
+numerror11(5 28)=17 6 11 -1
+numerror11(5 30)=17 6 11 -1
+numerror11(5 32)=17 6 11 -1
+numerror11(5 34)=17 6 11 -1
+numerror11(5 36)=17 6 11 -1
+numerror11(5 38)=17 6 11 -1
+numerror11(5 40)=17 6 11 -1
+numerror11(5 42)=17 6 11 -1
+numerror11(5 44)=17 6 11 -1
+numerror11(5 46)=17 5 12 -1
+numerror11(5 48)=17 5 12 -1
+numerror11(5 50)=17 5 12 -1
+numerror11(5 52)=17 5 12 -1
+numerror11(5 54)=17 6 11 -1
+numerror11(5 56)=17 6 11 -1
+numerror11(5 58)=18 6 12 -1
+numerror11(5 60)=17 6 11 -1
+numerror11(5 62)=17 6 11 -1
+numerror11(5 64)=17 6 11 -1
+numerror11(5 66)=17 6 11 -1
+numerror11(5 68)=17 6 11 -1
+numerror11(5 70)=18 6 12 -1
+numerror11(5 72)=17 6 11 -1
+numerror11(5 74)=17 6 11 -1
+numerror11(5 76)=17 6 11 -1
+numerror11(5 78)=17 6 11 -1
+numerror11(5 80)=18 6 12 -1
+numerror11(5 82)=17 6 11 -1
+numerror11(5 84)=17 6 11 -1
+numerror11(5 86)=17 6 11 -1
+numerror11(5 88)=17 6 11 -1
+numerror11(5 90)=18 6 12 -1
+numerror11(5 92)=17 6 11 -1
+numerror11(5 94)=17 6 11 -1
+numerror11(5 96)=17 6 11 -1
+numerror11(5 98)=17 6 11 -1
+numerror11(5 100)=18 6 12 -1
+numerror11(5 102)=17 6 11 -1
+numerror11(5 104)=17 6 11 -1
+numerror11(5 106)=17 6 11 -1
+numerror11(5 108)=17 6 11 -1
+numerror11(5 110)=18 6 12 -1
+numerror11(5 112)=17 6 11 -1
+numerror11(5 114)=17 6 11 -1
+numerror11(5 116)=17 6 11 -1
+numerror11(5 118)=17 6 11 -1
+numerror11(5 120)=18 6 12 -1
+numerror11(5 122)=17 6 11 -1
+numerror11(5 124)=17 6 11 -1
+numerror11(5 126)=17 6 11 -1
+numerror11(5 128)=17 6 11 -1
+numerror11(5 130)=18 6 12 -1
+numerror11(5 132)=17 6 11 -1
+numerror11(5 134)=17 6 11 -1
+numerror11(5 136)=17 6 11 -1
+numerror11(5 138)=17 6 11 -1
+numerror11(5 140)=18 6 12 -1
+numerror11(5 142)=17 6 11 -1
+numerror11(5 144)=17 6 11 -1
+numerror11(5 146)=17 6 11 -1
+numerror11(5 148)=17 6 11 -1
+numerror11(5 150)=18 6 12 -1
+numerror11(5 150)=18 6 12 -1
+(n, minnumerror3)=(157, 12, 5, 7)
+num(9,10,6)=157
+
+numerror11(1 1)=9 5 4 -1
+numerror11(1 2)=10 6 4 -1
+numerror11(1 4)=11 7 4 -1
+numerror11(1 5)=12 8 4 -1
+numerror11(5 1)=12 8 4 -1
+numerror11(5 2)=13 8 5 -1
+numerror11(5 4)=15 10 5 -1
+numerror11(5 5)=16 10 6 -1
+(n, minnumerror3)=(10, 9, 5, 4)
+num(9,10,7)=10
+
+numerror11(1 1)=39 11 28 -1
+numerror11(1 2)=37 10 27 -1
+numerror11(1 4)=35 11 24 -1
+numerror11(1 6)=41 12 29 -1
+numerror11(1 8)=41 11 30 -1
+numerror11(1 8)=41 11 30 -1
+(p, q)=28, 29
+numerror11(6 1)=28 13 15 -1
+numerror11(6 2)=31 15 16 -1
+numerror11(6 4)=39 16 23 -1
+numerror11(6 5)=36 16 20 -1
+(n, minnumerror3)=(13, 28, 13, 15)
+num(9,10,8)=13
+
+numerror11(1 1)=4 2 2 -1
+numerror11(1 2)=6 3 3 -1
+numerror11(1 4)=6 3 3 -1
+numerror11(1 5)=6 3 3 -1
+numerror11(4 1)=6 3 3 -1
+numerror11(4 2)=7 3 4 -1
+numerror11(4 4)=7 4 3 -1
+numerror11(4 6)=7 4 3 -1
+numerror11(4 8)=7 4 3 -1
+numerror11(4 9)=7 4 3 -1
+(n, minnumerror3)=(14, 4, 2, 2)
+num(9,10,9)=14
+
+numerror11(1 1)=3 2 1 -1
+numerror11(1 2)=3 2 1 -1
+numerror11(1 4)=3 2 1 -1
+numerror11(1 6)=3 2 1 -1
+numerror11(1 8)=4 2 2 -1
+numerror11(1 10)=5 2 3 -1
+numerror11(1 11)=5 2 3 -1
+numerror11(4 1)=6 3 3 -1
+numerror11(4 2)=6 3 3 -1
+numerror11(4 4)=5 2 3 -1
+numerror11(4 6)=6 3 3 -1
+numerror11(4 8)=6 3 3 -1
+numerror11(4 8)=6 3 3 -1
+(n, minnumerror3)=(19, 3, 2, 1)
+num(9,10,10)=19
+
+numerror11(1 1)=25 21 4 -1
+numerror11(1 2)=25 22 3 -1
+numerror11(1 4)=25 20 5 -1
+numerror11(1 6)=26 20 6 -1
+numerror11(1 8)=26 20 6 -1
+numerror11(1 8)=26 20 6 -1
+numerror11(5 1)=27 21 6 -1
+numerror11(5 2)=27 21 6 -1
+numerror11(5 4)=26 21 5 -1
+numerror11(5 6)=26 22 4 -1
+numerror11(5 8)=26 22 4 -1
+numerror11(5 9)=28 24 4 -1
+(n, minnumerror3)=(17, 25, 20, 5)
+num(9,10,11)=17
+
+numerror11(1 1)=50 16 34 -1
+numerror11(1 2)=49 16 33 -1
+numerror11(1 4)=46 12 34 -1
+numerror11(1 6)=47 15 32 -1
+numerror11(1 8)=46 15 31 -1
+numerror11(1 10)=49 15 34 -1
+numerror11(1 12)=50 17 33 -1
+numerror11(1 12)=50 17 33 -1
+(p, q)=35, 20
+numerror11(6 1)=46 18 28 -1
+numerror11(6 2)=42 17 25 -1
+numerror11(6 4)=42 17 25 -1
+numerror11(6 6)=41 18 23 -1
+numerror11(6 8)=41 18 23 -1
+numerror11(6 9)=42 18 24 -1
+(n, minnumerror3)=(21, 40, 17, 23)
+num(9,10,12)=21
+
+numerror11(1 1)=0 0 0 -1
+numerror11(1 1)=0 0 0 -1
+(n, minnumerror3)=(1, 0, 0, 0)
+num(9,10,13)=1
+
+numerror11(1 1)=2 1 1 -1
+numerror11(1 2)=2 1 1 -1
+numerror11(1 4)=5 2 3 -1
+numerror11(1 6)=5 2 3 -1
+numerror11(1 6)=5 2 3 -1
+numerror11(3 1)=5 2 3 -1
+numerror11(3 2)=5 2 3 -1
+numerror11(3 4)=5 2 3 -1
+numerror11(3 6)=5 2 3 -1
+numerror11(3 8)=5 2 3 -1
+numerror11(3 10)=5 2 3 -1
+numerror11(3 12)=5 2 3 -1
+numerror11(3 14)=5 2 3 -1
+numerror11(3 16)=6 2 4 -1
+numerror11(3 18)=6 2 4 -1
+numerror11(3 18)=6 2 4 -1
+(n, minnumerror3)=(24, 2, 1, 1)
+num(9,10,14)=24
+
+numerror11(1 1)=3 2 1 -1
+numerror11(1 2)=3 2 1 -1
+numerror11(1 4)=4 3 1 -1
+numerror11(1 6)=6 5 1 -1
+numerror11(1 6)=6 5 1 -1
+numerror11(4 1)=8 5 3 -1
+numerror11(4 2)=4 3 1 -1
+numerror11(4 4)=8 5 3 -1
+numerror11(4 6)=7 5 2 -1
+numerror11(4 6)=7 5 2 -1
+(n, minnumerror3)=(12, 3, 2, 1)
+num(9,10,15)=12
+
+numerror11(1 1)=16 4 12 -1
+numerror11(1 2)=17 5 12 -1
+numerror11(1 4)=18 5 13 -1
+numerror11(1 5)=17 5 12 -1
+numerror11(5 1)=18 5 13 -1
+numerror11(5 2)=18 5 13 -1
+numerror11(5 4)=19 6 13 -1
+numerror11(5 6)=17 4 13 -1
+numerror11(5 8)=19 6 13 -1
+numerror11(5 10)=21 6 15 -1
+numerror11(5 10)=21 6 15 -1
+(n, minnumerror3)=(15, 16, 4, 12)
+num(9,10,16)=15
+
+
+numtr0 =
+
+    86    83
+
+
+ans =
+
+     0     1     8     2     4     5     5    13     2     2    20    17     0     1     2     4
+     0     0     3     4     5     7     4    15     2     1     5    23     0     1     1    12
+
+
+ans =
+
+   169
+
+minnumerror7=0, 1, 11, 6, 9, 12, 9, 28, 4, 3, 25, 40, 0, 2, 3, 16, sum=169
+minnumerror8=0, 1, 9, 6, 9, 12, 9, 28, 4, 3, 15, 35, 0, 2, 3, 15
+sum(minnumerror8)=151
+
+numtr0 =
+
+   106    47
+
+
+ans =
+
+     0     1     0     2     4     9     5    28     2     2     0    35     0     1     2    15
+     0     0     9     4     5     5     4     0     2     1    15     0     0     1     1     0
+
+
+ans =
+
+   153
+
+
+aver_index =
+
+    0.3328    0.3193    0.3109    0.2571
+
+
+numtr_0 =
+
+   131   108   114   106
+
+
+imin =
+
+     4
+
+
+imin1 =
+
+     4
+
+
+aver_min =
+
+    0.2571
+
+
+imin =
+
+     4
+
+minnumerror2(9,10)=minnumerror2(45)=153
+
+ans =
+
+  Columns 1 through 22 
+
+     0     0     0     0     0     0     0     0     0     0     0     0     0     0     4     3     2     0     0     1     3     6
+
+  Columns 23 through 44 
+
+     8    12     0     0     0     2     2     3     2     0     2     0     0     7     7    13     7    13    15    11    49    66
+
+  Column 45 
+
+   153
+
+
+t1 =
+
+   31.8420
+
+
+t1 =
+
+   31.8470
+
+
+minnumerror2 =
+
+  Columns 1 through 22 
+
+     0     0     0     0     0     0     0     0     0     0     0     0     0     0     4     3     2     0     0     1     3     6
+
+  Columns 23 through 44 
+
+     8    12     0     0     0     2     2     3     2     0     2     0     0     7     7    13     7    13    15    11    49    66
+
+  Column 45 
+
+   153
+
+
+n000 =
+
+  Columns 1 through 11 
+
+           1           1           1           1           3           6           1          32          13           7           6
+
+  Columns 12 through 22 
+
+           8          14         113          38         104         114          11          13         234         168         241
+
+  Columns 23 through 33 
+
+         318         266         114          10         147          36          92         142         324         154         199
+
+  Columns 34 through 44 
+
+          19         153         135         383         324         119         595         260         180         533        1107
+
+  Column 45 
+
+        1253
+
+
+ans =
+
+        7993
+
+
+total_time =
+
+  Columns 1 through 13 
+
+    0.0750    0.1360    0.2010    0.2710    0.3490    0.4390    0.5000    0.7260    0.8480    1.0280    1.1680    1.2730    1.4030
+
+  Columns 14 through 26 
+
+    2.0480    2.3840    3.1110    3.7970    3.9770    4.1530    4.9890    5.7130    6.5010    7.8400    8.8710    9.3310    9.5060
+
+  Columns 27 through 39 
+
+   10.3120   10.6380   11.1680   11.8990   12.9440   13.7960   14.5500   14.7110   15.5660   16.1250   17.4020   18.4560   19.0070
+
+  Columns 40 through 45 
+
+   20.8550   22.0010   22.8900   25.0850   28.3160   31.8420
+
+numtr0(1,2)=0 0
+numtr0(1,3)=0 0
+numtr0(1,4)=0 0
+numtr0(1,5)=0 0
+numtr0(1,6)=0 0
+numtr0(1,7)=0 0
+numtr0(1,8)=0 0
+numtr0(1,9)=0 0
+numtr0(1,10)=0 0
+numtr0(2,3)=0 0
+numtr0(2,4)=0 0
+numtr0(2,5)=0 0
+numtr0(2,6)=0 0
+numtr0(2,7)=0 0
+numtr0(2,8)=4 0
+numtr0(2,9)=3 0
+numtr0(2,10)=2 0
+numtr0(3,4)=0 0
+numtr0(3,5)=0 0
+numtr0(3,6)=0 1
+numtr0(3,7)=3 0
+numtr0(3,8)=1 5
+numtr0(3,9)=3 5
+numtr0(3,10)=7 5
+numtr0(4,5)=0 0
+numtr0(4,6)=0 0
+numtr0(4,7)=0 0
+numtr0(4,8)=2 0
+numtr0(4,9)=2 0
+numtr0(4,10)=3 0
+numtr0(5,6)=1 1
+numtr0(5,7)=0 0
+numtr0(5,8)=0 2
+numtr0(5,9)=0 0
+numtr0(5,10)=0 0
+numtr0(6,7)=6 1
+numtr0(6,8)=4 3
+numtr0(6,9)=5 8
+numtr0(6,10)=3 4
+numtr0(7,8)=9 4
+numtr0(7,9)=8 7
+numtr0(7,10)=7 4
+numtr0(8,9)=34 15
+numtr0(8,10)=42 24
+numtr0(9,10)=106 47
+
+err_train5 =
+
+  Columns 1 through 13 
+
+  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000
+         0  100.0000  100.0000  100.0000  100.0000  100.0000   97.7273   98.9967   99.3789         0  100.0000  100.0000  100.0000
+         0         0  100.0000  100.0000   98.1481   97.6744   96.7213   97.3856   96.3526         0         0  100.0000  100.0000
+         0         0         0  100.0000  100.0000  100.0000   98.9247   99.3528   99.0964         0         0         0  100.0000
+         0         0         0         0   96.8254  100.0000   98.9583  100.0000  100.0000         0         0         0         0
+         0         0         0         0         0   95.1049   96.4467   95.9375   97.9592         0         0         0         0
+         0         0         0         0         0         0   95.2206   96.2025   97.3684         0         0         0         0
+         0         0         0         0         0         0         0   89.0869   86.0169         0         0         0         0
+         0         0         0         0         0         0         0         0   74.2857         0         0         0         0
+
+  Columns 14 through 26 
+
+  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000
+  100.0000  100.0000   84.6154   88.4615   92.3077         0  100.0000  100.0000  100.0000  100.0000  100.0000   83.2050   87.7058
+   98.5294   92.5000   95.9663   91.6259   81.6909         0         0  100.0000  100.0000   98.5184   92.1954   95.9614   91.3860
+  100.0000  100.0000   95.6522   95.6522   93.4783         0         0         0  100.0000  100.0000  100.0000   95.5533   95.5533
+   96.8053  100.0000   99.3865  100.0000  100.0000         0         0         0         0   96.8049  100.0000   99.3846  100.0000
+         0   90.7178   93.1974   91.2485   94.9410         0         0         0         0         0   90.3313   93.0652   91.0540
+         0         0   94.6446   95.1065   96.1417         0         0         0         0         0         0   94.6001   95.0750
+         0         0         0   86.9482   83.2331         0         0         0         0         0         0         0   86.5970
+         0         0         0         0   73.8634         0         0         0         0         0         0         0         0
+
+  Columns 27 through 39 
+
+  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000
+   91.9866         0   97.6923   98.9967  100.0000  100.0000  100.0000   88.6739   96.6918   90.9136         0   99.4231   99.7492
+   79.9676         0         0   95.4348   99.6552   85.7353   81.8349   87.2086   89.8951   83.6731         0         0   98.8587
+   93.2505         0         0         0   97.7511   95.0128  100.0000   98.8797   99.6808   99.2543         0         0         0
+  100.0000         0         0         0         0   90.8722  100.0000   99.7038  100.0000  100.0000         0         0         0
+   94.8663         0         0         0         0         0   95.8176   94.8755   95.7528   94.7268         0         0         0
+   96.1076         0         0         0         0         0         0   98.1764   97.9470   99.4181         0         0         0
+   82.7451         0         0         0         0         0         0         0   89.8558   84.8750         0         0         0
+   73.0507         0         0         0         0         0         0         0         0   70.5026         0         0         0
+
+  Columns 40 through 45 
+
+  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000
+  100.0000  100.0000  100.0000   88.5554   92.9639   93.6467
+   99.9138   95.2328   91.0512   93.9644   92.5731   85.4211
+   99.4378   98.7532  100.0000   97.2525   97.5597   96.2698
+         0   95.3270  100.0000   99.3583  100.0000  100.0000
+         0         0   92.9929   94.3962   93.4982   95.6233
+         0         0         0   95.6604   96.0828   97.2589
+         0         0         0         0   88.1220   84.2175
+         0         0         0         0         0   72.9256
+
+
+t1 =
+
+   32.3760
+
+numtr0(1,2)=0 0
+numtr0(1,3)=0 0
+numtr0(1,4)=0 0
+numtr0(1,5)=0 0
+numtr0(1,6)=0 0
+numtr0(1,7)=0 0
+numtr0(1,8)=0 0
+numtr0(1,9)=0 0
+numtr0(1,10)=0 2
+numtr0(2,3)=4 2
+numtr0(2,4)=3 2
+numtr0(2,5)=2 1
+numtr0(2,6)=4 3
+numtr0(2,7)=2 0
+numtr0(2,8)=4 6
+numtr0(2,9)=4 1
+numtr0(2,10)=4 3
+numtr0(3,4)=1 3
+numtr0(3,5)=1 1
+numtr0(3,6)=5 4
+numtr0(3,7)=1 5
+numtr0(3,8)=7 9
+numtr0(3,9)=5 3
+numtr0(3,10)=8 9
+numtr0(4,5)=1 5
+numtr0(4,6)=2 3
+numtr0(4,7)=1 0
+numtr0(4,8)=3 8
+numtr0(4,9)=4 1
+numtr0(4,10)=5 3
+numtr0(5,6)=5 2
+numtr0(5,7)=1 1
+numtr0(5,8)=1 5
+numtr0(5,9)=0 2
+numtr0(5,10)=1 0
+numtr0(6,7)=5 1
+numtr0(6,8)=9 5
+numtr0(6,9)=4 2
+numtr0(6,10)=3 9
+numtr0(7,8)=9 4
+numtr0(7,9)=8 8
+numtr0(7,10)=8 5
+numtr0(8,9)=29 9
+numtr0(8,10)=33 29
+numtr0(9,10)=62 35
+
+err_test5 =
+
+  Columns 1 through 13 
+
+  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000   98.7179  100.0000  100.0000  100.0000  100.0000
+         0   64.7059   73.6842   86.3636   70.8333   96.7213   88.6364   96.6667   95.6522         0   61.4286   70.2381   82.3810
+         0         0   81.8182   92.0000   66.6667   90.6250   82.4176   94.7712   89.6341         0         0   82.5000   91.6667
+         0         0         0   77.7778   82.7586   98.4848   88.1720   96.7742   95.1807         0         0         0   79.1667
+         0         0         0         0   78.1250   97.1014   93.7500   98.7342   99.4083         0         0         0         0
+         0         0         0         0         0   91.5493   85.7143   96.2500   92.9825         0         0         0         0
+         0         0         0         0         0         0   90.3704   91.8782   93.7500         0         0         0         0
+         0         0         0         0         0         0         0   83.0357   73.6170         0         0         0         0
+         0         0         0         0         0         0         0         0   67.3401         0         0         0         0
+
+  Columns 14 through 26 
+
+  100.0000  100.0000  100.0000  100.0000   99.3506  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000
+   62.6050   85.7143   67.7249   71.0789   70.4545         0   58.5540   69.0066   81.6497   59.4089   84.5154   62.9941   65.2361
+   63.2353   90.3704   59.4444   73.9510   57.0779         0         0   82.1584   91.6515   61.8347   90.3696   51.6398   69.9650
+   82.8431   95.8333   82.5617   82.9837   78.1926         0         0         0   78.1736   82.8417   95.7427   82.2147   81.3637
+   77.4510   95.7407   93.5802   99.3007   96.6667         0         0         0         0   76.6965   95.7105   93.5799   99.2982
+         0   84.3682   70.4430   87.5360   88.2544         0         0         0         0         0   83.2352   66.4484   86.8338
+         0         0   89.1975   89.7954   90.9692         0         0         0         0         0         0   89.0046   89.6770
+         0         0         0   78.9519   70.2140         0         0         0         0         0         0         0   77.5610
+         0         0         0         0   66.9580         0         0         0         0         0         0         0         0
+
+  Columns 27 through 39 
+
+   99.3485  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000  100.0000
+   64.8246         0   77.1429   79.7619   90.4762   84.0336   98.6772   80.9524   89.0110   78.9425         0   65.4578   73.1727
+   43.3949         0         0   95.8333   97.3333   90.0000   91.8519   88.8889   78.4615   64.4156         0         0   85.5775
+   75.6287         0         0         0   82.2222   85.7843   99.8457   80.9671   92.3077   90.3139         0         0         0
+   96.6092         0         0         0         0   88.6275   99.6296   98.7654  100.0000  100.0000         0         0         0
+   88.0569         0         0         0         0         0   91.7211   92.0116   98.8893   96.9060         0         0         0
+   90.7851         0         0         0         0         0         0   98.6740   97.5783   98.7253         0         0         0
+   69.3542         0         0         0         0         0         0         0   90.9523   84.7603         0         0         0
+   66.1588         0         0         0         0         0         0         0         0   71.5148         0         0         0
+
+  Columns 40 through 45 
+
+  100.0000  100.0000  100.0000  100.0000  100.0000   99.3543
+   85.2176   69.2202   91.4071   75.0769   80.4982   77.4684
+   93.1629   70.4342   90.8042   70.5977   79.2872   63.6306
+   79.3351   83.5569   97.4766   83.4789   88.3573   84.8290
+         0   80.2250   97.0456   94.9189   99.3333   98.1710
+         0         0   87.7185   78.6543   92.3773   91.5499
+         0         0         0   91.8116   92.2322   93.5574
+         0         0         0         0   82.6252   74.4864
+         0         0         0         0         0   67.9929
+
+
+t1 =
+
+   32.6460
+
+
+nerr =
+
+     0     3     9     3     0     7    10    40    92    61
+
+
+nerr1 =
+
+     0     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     0     2     0     1
+     0     0     0     0     0     0     3     0     2     4
+     0     0     0     0     0     0     0     2     0     1
+     0     0     0     0     0     0     0     0     0     0
+     0     0     0     0     0     0     1     0     4     2
+     0     0     1     0     0     0     0     3     3     3
+     0     0     1     0     1     0     3     0    10    25
+     0     0     0     0     0     2     4    11     0    75
+     0     0     1     0     0     0     2    14    44     0
+
+
+ans =
+
+   225
+
+
+nerr_1 =
+
+     0     4    10     3     1    11    14    60   115    75
+
+
+nerr1_1 =
+
+     0     0     0     0     0     0     0     0     0     0
+     0     0     0     0     1     0     0     2     0     1
+     0     0     0     0     0     0     3     1     2     4
+     0     0     0     0     0     0     0     2     0     1
+     0     0     0     0     0     1     0     0     0     0
+     0     0     0     0     1     0     1     1     5     3
+     0     0     1     0     0     0     0     5     5     3
+     0     0     1     0     2     1     3     0    24    29
+     1     0     0     0     0     2     7    26     0    79
+     0     0     1     0     0     1     3    25    45     0
+
+
+ans =
+
+   293
+
+
+ans =
+
+    0.7725
+
+
+ans =
+
+    0.7037
+
+
+t1 =
+
+   33.5860
+
+
+nerr =
+
+     0     4     9     4     3    10    15    37    48    44
+
+
+nerr1 =
+
+     0     0     0     0     0     0     0     0     0     0
+     0     0     0     1     0     0     0     0     0     3
+     0     0     0     0     0     0     2     0     2     5
+     0     0     0     0     0     1     1     0     0     2
+     0     0     0     2     0     0     0     1     0     0
+     0     0     1     1     0     0     4     1     2     1
+     0     0     0     0     0     0     0     6     4     5
+     0     2     1     0     0     5     2     0     6    21
+     0     0     1     0     0     1     3     6     0    37
+     2     0     1     0     0     1     2    10    28     0
+
+
+ans =
+
+   174
+
+
+nerr_1 =
+
+     0     5    10     6     9    12    17    44    70    65
+
+
+nerr1_1 =
+
+     0     0     0     0     0     0     0     0     0     0
+     0     0     0     1     0     0     0     1     0     3
+     0     0     0     0     0     0     2     0     3     5
+     0     0     0     0     1     2     1     0     0     2
+     0     0     1     4     0     3     0     1     0     0
+     0     0     1     1     1     0     4     2     2     1
+     0     0     0     0     1     0     0     6     5     5
+     0     3     1     0     0     5     2     0    11    22
+     0     0     1     0     0     1     5    18     0    45
+     2     0     2     0     0     1     3    25    32     0
+
+
+ans =
+
+   238
+
+
+ans =
+
+    0.6485
+
+
+ans =
+
+    0.5192
+
+
+t1 =
+
+   34.0500
+
+>> 
